@@ -8,7 +8,9 @@ call "%VSDIR%\VC\Auxiliary\Build\vcvars64.bat"
 if errorlevel 1 exit /b 1
 pushd "%~dp0"
 if not exist out mkdir out
-cl /nologo /std:c++17 /LD /O2 /MT /GS /EHsc /W4 thai_language.cpp /link /DEF:version.def /OUT:out\version.dll /IMPLIB:out\version.lib
+ml64 /nologo /c /Foout\version_forwarders.obj version_forwarders.asm
+if errorlevel 1 exit /b 1
+cl /nologo /std:c++17 /LD /O2 /MT /GS /EHsc /W4 thai_language.cpp out\version_forwarders.obj /link /DEF:version.def /OUT:out\version.dll /IMPLIB:out\version.lib
 set "RESULT=%errorlevel%"
 popd
 exit /b %RESULT%

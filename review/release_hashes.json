@@ -1,14 +1,14 @@
 {
-  "mod_version": "1.0",
+  "mod_version": "1.1",
   "game_build": "Steam PC 1.4.21058",
-  "release_filename": "UNCHARTED_Thai_Mod_v1.0_LowSpace.zip",
-  "release_sha256": "418a8ff9fa2da711f21d6d678f2c80854556cfd97055e7fd32929750c2e397ce",
+  "release_filename": "UNCHARTED_Thai_Mod_v1.1_LowSpace.zip",
+  "release_sha256": "c34a29d8526fa565ea195aeb2b363a2e6650f6c6e0d8312957a5833c13f1f813",
   "files": {
-    "installer.ps1": "51475747f78925ab1aad48f142ab6c28f7a00ab8e9111a06a2a73ad58f166f43",
+    "installer.ps1": "525ce438451947bea609cabb653aa5acd9d41adcb9e7730eacae256499b71d24",
     "installer_engine.ps1": "40eaa5116df6dee1326e21b52181268f2998ec26ae6cfdbb3b81a5d1437ee379",
-    "manifest.json": "e7c92617e2a767d01aaa238f3dd1d0239f204d9fb5b6c5871ae742e7f8e58cdc",
-    "mod_data.zip": "4e658fc402ffd0ec84cf36329b8709c53f10378736911f898d1761be0541bc7f",
-    "version.dll": "2b102faa92e5d41d967ec6539e3d66cd4aef77e1d0133abd8225f90888213864"
+    "manifest.json": "8f1b470e950e247737ab401d39bf37b7f534ae7d0664cbf7316fea0dbcd72d05",
+    "mod_data.zip": "8c7b1b093b9602370b300488ccf1432e1fd60d94e9e55b7e1415965976639dd2",
+    "version.dll": "004e081ede52e7e4127989192f7d19f48dcd236c3428831a0fbf38bd0d18f866"
   },
   "executables": [
     {

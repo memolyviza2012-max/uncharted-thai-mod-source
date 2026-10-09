@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "game_build": "Steam PC 1.4.21058",
-  "mod_version": "1.0",
+  "mod_version": "1.1",
   "files": [
     {
       "path": "Uncharted4_data/build/pc/main/flash1.psarc",
@@ -34,8 +34,8 @@
       "path": "version.dll",
       "kind": "full",
       "source_sha256": null,
-      "target_sha256": "2b102faa92e5d41d967ec6539e3d66cd4aef77e1d0133abd8225f90888213864",
-      "size": 161280,
+      "target_sha256": "004e081ede52e7e4127989192f7d19f48dcd236c3428831a0fbf38bd0d18f866",
+      "size": 161792,
       "payload": "FullFiles/version.dll",
       "source_size": 0
     },
@@ -2148,8 +2148,8 @@
       "sha256": "3025a786429d89666c1e45223fca08f1d44ecdb9c07369c6fb5752bf85b92d2f"
     }
   ],
-  "payload_sha256": "4e658fc402ffd0ec84cf36329b8709c53f10378736911f898d1761be0541bc7f",
-  "temporary_bytes": 795744011,
+  "payload_sha256": "8c7b1b093b9602370b300488ccf1432e1fd60d94e9e55b7e1415965976639dd2",
+  "temporary_bytes": 795744523,
   "distribution": "in_place_ranges_with_small_full_replacements",
   "backup_directory": "_NodNuatThai_v1.0_LowSpace_Backup",
   "backup_bytes_upper_bound": 394132314

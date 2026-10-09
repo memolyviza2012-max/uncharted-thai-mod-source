@@ -1,38 +1,12 @@
 {
-  "released_sha256": "2b102faa92e5d41d967ec6539e3d66cd4aef77e1d0133abd8225f90888213864",
-  "rebuilt_sha256": "8be0d4c981fb1e89132aa4c2f1bc124cefc0e26ab58d200891f02bd1436a90d6",
+  "released_sha256": "004e081ede52e7e4127989192f7d19f48dcd236c3428831a0fbf38bd0d18f866",
+  "rebuilt_sha256": "b9cdc534175b3ee6165fa1f1554e772e77b82a51520027e84ef9771197591ab8",
   "normalized_pe_timestamp_equal": true,
+  "normalized_sha256": "c8974b99216ef26db9aa840abda3ca92d4c1b4123de9de700d3d9ad15c099786",
   "normalization_fields": [
     "COFF header TimeDateStamp",
     "Export directory TimeDateStamp",
     "Debug directory TimeDateStamp"
   ],
-  "toolchain": "Visual Studio Build Tools 2022 v17.14.39, x64; original flags retained",
-  "sections": [
-    {
-      "name": ".text",
-      "identical_raw_bytes": true
-    },
-    {
-      "name": ".rdata",
-      "identical_raw_bytes": false
-    },
-    {
-      "name": ".data",
-      "identical_raw_bytes": true
-    },
-    {
-      "name": ".pdata",
-      "identical_raw_bytes": true
-    },
-    {
-      "name": ".fptable",
-      "identical_raw_bytes": true
-    },
-    {
-      "name": ".reloc",
-      "identical_raw_bytes": true
-    }
-  ],
-  "normalized_sha256": "fb1506ecc993628153010585370590a4ba991d051495a9c99b0bf58eb8aee77a"
+  "toolchain": "Visual Studio Build Tools 2022 v17.14.39, x64; MASM and original C++ flags"
 }

@@ -8,7 +8,7 @@ native language table relocation and a constructor thunk; they may cause
 heuristic detections. Allocation/protection flags are visible in the source.
 No claim is made that an antivirus or Nexus reviewer will accept this technique.
 
-The original six version exports are resolved from the absolute Windows system
+The 17 Windows version exports are resolved from the absolute Windows system
 `version.dll` via `LoadLibraryExW(..., LOAD_LIBRARY_SEARCH_SYSTEM32)`.
 There is no network client, downloader, credential access, autostart registration,
 privilege-elevation request, remote process handle or remote injection routine

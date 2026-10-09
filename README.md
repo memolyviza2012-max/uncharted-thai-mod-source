@@ -1,8 +1,8 @@
-# UNCHARTED Thai Mod — source for review
+# UNCHARTED Thai Mod â€” source for review
 
-Creator: **หน๊ด หนวด translator** (Nod Nuat Translator).
+Creator: **à¸«à¸™à¹Šà¸” à¸«à¸™à¸§à¸” translator** (Nod Nuat Translator).
 Supported game: UNCHARTED: Legacy of Thieves Collection, Steam PC 1.4.21058.
-Mod content version: 1.0; distribution: LowSpace offline installer.
+Mod content version: 1.1; distribution: LowSpace offline installer.
 
 This repository contains the shipped installer scripts and the C++ source of the
 native Thai language proxy, provided so reviewers can inspect their behavior.
@@ -12,7 +12,7 @@ short expected instruction signatures required by the native guards.
 
 ## Contents
 
-- `proxy/`: exact `thai_language.cpp`, `profiles.h` and `version.def` used by the
+- `proxy/`: exact `thai_language.cpp`, `profiles.h`, `version.def` and `version_forwarders.asm` used by the
   released proxy, plus a portable build command. The source has not been changed
   to disguise behavior from reviewers.
 - `installer/`: byte-identical scripts and manifest from the distributed ZIP.
@@ -29,11 +29,10 @@ The build uses C++17, `/O2 /MT /GS /EHsc /W4`, `bcrypt.lib`, and the supplied DE
 No downloads are performed by the build script. A game installation is not
 required to compile: all four exact build profiles are included in the header.
 
-The original DLL has no reproducible-build promise: toolchain version and PE
-timestamps can change its whole-file hash. See `review/build_comparison.json`
-for the local rebuild evidence: every byte matches after normalizing PE header,
-export-directory and debug-directory timestamps. Always use the recorded released
-DLL hash when comparing a downloaded release to this review snapshot.
+The v1.1 DLL is built from these sources including `version_forwarders.asm`
+with MASM x64 tail jumps that preserve the Windows API ABI and ordinals.
+Whole-file hashes can differ with PE timestamps or toolchain changes.
+See `review/build_comparison.json` and the recorded released DLL hash.
 
 ## Test the installer
 
@@ -47,11 +46,13 @@ It creates a disposable synthetic folder beneath `tests/`, tests install,
 rollback, recovery and uninstall, and never locates the user's real game.
 Full-size tests were run separately against disposable original game copies.
 All six target hashes match the mod previously accepted in-game by the creator;
-the installer revision did not receive a new gameplay launch test.
+the v1.1 DLL was separately tested against all four native profiles, and the
+creator confirmed the DLSS fix in-game. The unchanged installer engine retains
+the v1.0 full-size install/uninstall evidence.
 
 ## Runtime summary
 
-The DLL forwards six version-information exports to the Windows system DLL.
+The DLL forwards all 17 version-information exports to the Windows system DLL.
 It verifies the host EXE's exact hash and instruction signatures before changing
 the language manager inside that same process, adding Thai ID 25 while keeping
 the original IDs and sentinel 24. It does not patch EXEs on disk or other processes.
