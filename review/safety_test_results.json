@@ -1,0 +1,106 @@
+﻿[
+    {
+        "test":  "game running gate",
+        "passed":  true
+    },
+    {
+        "test":  "wrong build",
+        "passed":  true
+    },
+    {
+        "test":  "path traversal",
+        "passed":  true
+    },
+    {
+        "test":  "absolute path",
+        "passed":  true
+    },
+    {
+        "test":  "duplicate destination",
+        "passed":  true
+    },
+    {
+        "test":  "junction destination",
+        "passed":  true
+    },
+    {
+        "test":  "missing archive",
+        "passed":  true
+    },
+    {
+        "test":  "modded original",
+        "passed":  true
+    },
+    {
+        "test":  "insufficient capacity",
+        "passed":  true
+    },
+    {
+        "test":  "read-only source",
+        "passed":  true
+    },
+    {
+        "test":  "corrupt payload zip",
+        "passed":  true
+    },
+    {
+        "test":  "out of bounds range",
+        "passed":  true
+    },
+    {
+        "test":  "overlapping ranges",
+        "passed":  true
+    },
+    {
+        "test":  "concurrent installer lock",
+        "passed":  true
+    },
+    {
+        "test":  "automatic rollback of torn range",
+        "passed":  true
+    },
+    {
+        "test":  "install target hashes",
+        "passed":  true
+    },
+    {
+        "test":  "repeat installation",
+        "passed":  true
+    },
+    {
+        "test":  "unrelated archive mutation blocks restore",
+        "passed":  true
+    },
+    {
+        "test":  "corrupt backup blocks restore",
+        "passed":  true
+    },
+    {
+        "test":  "uninstall exact originals",
+        "passed":  true
+    },
+    {
+        "test":  "abrupt install requires recovery",
+        "passed":  true
+    },
+    {
+        "test":  "process killed halfway through range write with persisted journal",
+        "passed":  true
+    },
+    {
+        "test":  "process killed halfway through recovery",
+        "passed":  true
+    },
+    {
+        "test":  "recovery after double interruption without mod payload",
+        "passed":  true
+    },
+    {
+        "test":  "kill after atomic small-file replacement before journal clear",
+        "passed":  true
+    },
+    {
+        "test":  "mismatched recovery journal",
+        "passed":  true
+    }
+]

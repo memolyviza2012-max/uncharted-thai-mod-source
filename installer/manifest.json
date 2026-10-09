@@ -1,0 +1,2156 @@
+{
+  "schema": 2,
+  "game_build": "Steam PC 1.4.21058",
+  "mod_version": "1.0",
+  "files": [
+    {
+      "path": "Uncharted4_data/build/pc/main/flash1.psarc",
+      "kind": "full",
+      "source_sha256": "9c6d29f49442f21495d66e77e91cd67fcd541501461de96593e0ce98abd15bde",
+      "target_sha256": "ef6d5a2a7b2007f439c31d06750ff36675a0af7a64895ea5b6e4ac48189b9d1e",
+      "size": 25105357,
+      "payload": "FullFiles/Uncharted4_data/build/pc/main/flash1.psarc",
+      "source_size": 16438618
+    },
+    {
+      "path": "Uncharted4_data/build/pc/uncharted4/text2.psarc",
+      "kind": "full",
+      "source_sha256": "fce5b2349ab5c18af240db0179fa2a45809679ab4fb4f2cc0246abfd7ae5e159",
+      "target_sha256": "f117ea34d3bcc2029f9db39159b33bfde7648cc5a2a9df51cbd05aabe3dddd09",
+      "size": 53954802,
+      "payload": "FullFiles/Uncharted4_data/build/pc/uncharted4/text2.psarc",
+      "source_size": 24941312
+    },
+    {
+      "path": "Uncharted4_data/build/pc/thelostlegacy/text2.psarc",
+      "kind": "full",
+      "source_sha256": "fce5b2349ab5c18af240db0179fa2a45809679ab4fb4f2cc0246abfd7ae5e159",
+      "target_sha256": "f117ea34d3bcc2029f9db39159b33bfde7648cc5a2a9df51cbd05aabe3dddd09",
+      "size": 53954802,
+      "payload": "FullFiles/Uncharted4_data/build/pc/thelostlegacy/text2.psarc",
+      "source_size": 24941312
+    },
+    {
+      "path": "version.dll",
+      "kind": "full",
+      "source_sha256": null,
+      "target_sha256": "2b102faa92e5d41d967ec6539e3d66cd4aef77e1d0133abd8225f90888213864",
+      "size": 161280,
+      "payload": "FullFiles/version.dll",
+      "source_size": 0
+    },
+    {
+      "path": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+      "kind": "ranges",
+      "source_sha256": "17f3f2179368fde1b4b441b65fd5c922ae3929c30c51f65bcd25b91b5edbc6f2",
+      "target_sha256": "693407d5e5f503a6e67c92cc9d9c1f03e1491efc703881340ea1d88f01a8e55b",
+      "size": 42242123280,
+      "ranges": [
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 1466806272,
+          "size": 196608,
+          "original_sha256": "617c89d658de8c95debd5ede9892944a6462b4f1fd0b7e77377fcd7c1a9a3f23",
+          "target_sha256": "cc828c4646a32a54e6457e82c3f9ac8ee29e215959883b10c674996763cbae9a",
+          "payload": "Textures/cc828c4646a32a54e6457e82c3f9ac8ee29e215959883b10c674996763cbae9a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 1474539520,
+          "size": 196608,
+          "original_sha256": "6aa5bdfcd672e5adcba9f9331295be762f0a0c3da138b60ce2d8443425fec0f3",
+          "target_sha256": "19cf68b44702ce28080b9a5587c6cc0f515b7cec4eb687e5fd4f90145aef868a",
+          "payload": "Textures/19cf68b44702ce28080b9a5587c6cc0f515b7cec4eb687e5fd4f90145aef868a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 8497860512,
+          "size": 720896,
+          "original_sha256": "00fc9572affdfac87145b7345866f6f63ac7fd86e7d19c613d8eee2c65bfda2a",
+          "target_sha256": "6242289ff34345f0e984126f78e27a9d1de7dd119c5412f1ba5d3038c6691ae7",
+          "payload": "Textures/6242289ff34345f0e984126f78e27a9d1de7dd119c5412f1ba5d3038c6691ae7.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 27105053888,
+          "size": 720896,
+          "original_sha256": "b16de09cf2aafdf4c1ae1b6239ed0dda43e8f6b12f178e10d568d090122a2539",
+          "target_sha256": "163df4f15160e5bec95735ca765f86dd6c54b4c800ae7d8cfa50813ae0c2bc9a",
+          "payload": "Textures/163df4f15160e5bec95735ca765f86dd6c54b4c800ae7d8cfa50813ae0c2bc9a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 27253951680,
+          "size": 720896,
+          "original_sha256": "6e4267373bbf47e4742e8ead56a3c19b14c1920d8bd16fa79265365267fb4ccc",
+          "target_sha256": "4d27f9efcd7607a1b2d07d9820baac0e9f0fda208e978810e7ef93f5de07a7ec",
+          "payload": "Textures/4d27f9efcd7607a1b2d07d9820baac0e9f0fda208e978810e7ef93f5de07a7ec.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 27594893504,
+          "size": 720896,
+          "original_sha256": "362db27f5972148796c8f4a4319f98b7ff3f2bef1188a80ffeb9b6c0dbc955f6",
+          "target_sha256": "3715c17ec3e474d054414f18249a4057cae34ba159bf031a966100eb72244440",
+          "payload": "Textures/3715c17ec3e474d054414f18249a4057cae34ba159bf031a966100eb72244440.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 27605510336,
+          "size": 720896,
+          "original_sha256": "8fa65854115b61f278e962add61f71092c09cdbaac1bde4b93c0875201be270b",
+          "target_sha256": "9996dccb125560538f047d4972b82f91195d4b867b740c0fa6dc8978c89268eb",
+          "payload": "Textures/9996dccb125560538f047d4972b82f91195d4b867b740c0fa6dc8978c89268eb.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 28544392096,
+          "size": 196608,
+          "original_sha256": "3c36e3fc66b52d8cc65de9da7b2e6fdec7e34d725c343e080dd1db6adbbd94f4",
+          "target_sha256": "472ad43380228be4a209a149a7e963e5a50528441c393fd06bd2b31c9137dedf",
+          "payload": "Textures/472ad43380228be4a209a149a7e963e5a50528441c393fd06bd2b31c9137dedf.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 28556843936,
+          "size": 720896,
+          "original_sha256": "afb51840eae911f06b53d2d47fc6712562d02c8b3f446b257df5487e54da3e7c",
+          "target_sha256": "263375516e76d4bebf31475903c787c99f4e9ec5f99a98632b4b6ac0492892e2",
+          "payload": "Textures/263375516e76d4bebf31475903c787c99f4e9ec5f99a98632b4b6ac0492892e2.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 28793035680,
+          "size": 720896,
+          "original_sha256": "3c3c008643d4e48f8c68d115525bf7aba260abf4e82787c34417e1130036bc3c",
+          "target_sha256": "7f3f642af3f11ef990db224565d323caa5c7f8ffcf3553589439533888d29f51",
+          "payload": "Textures/7f3f642af3f11ef990db224565d323caa5c7f8ffcf3553589439533888d29f51.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 28795394976,
+          "size": 720896,
+          "original_sha256": "252667b82e517f73048c067911ed7936cbec823dfbcf82a1fca23cbc6f0b6ac4",
+          "target_sha256": "c8e271e10eaf148462818b4556aaeb4e31986484c338a586e6cae773b44657c2",
+          "payload": "Textures/c8e271e10eaf148462818b4556aaeb4e31986484c338a586e6cae773b44657c2.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 28796115872,
+          "size": 720896,
+          "original_sha256": "252667b82e517f73048c067911ed7936cbec823dfbcf82a1fca23cbc6f0b6ac4",
+          "target_sha256": "c8e271e10eaf148462818b4556aaeb4e31986484c338a586e6cae773b44657c2",
+          "payload": "Textures/c8e271e10eaf148462818b4556aaeb4e31986484c338a586e6cae773b44657c2.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 29126024096,
+          "size": 196608,
+          "original_sha256": "fe1a59e63e255e9f1409a9b5002b9a2a84cb30e8d4090678b72ee5e7f905abd9",
+          "target_sha256": "086cfd29fb8b2c0f16fc69e82731116ff0f6576a0638220ccb046c46f609d878",
+          "payload": "Textures/086cfd29fb8b2c0f16fc69e82731116ff0f6576a0638220ccb046c46f609d878.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 29126220704,
+          "size": 196608,
+          "original_sha256": "fe1a59e63e255e9f1409a9b5002b9a2a84cb30e8d4090678b72ee5e7f905abd9",
+          "target_sha256": "086cfd29fb8b2c0f16fc69e82731116ff0f6576a0638220ccb046c46f609d878",
+          "payload": "Textures/086cfd29fb8b2c0f16fc69e82731116ff0f6576a0638220ccb046c46f609d878.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 29126417312,
+          "size": 196608,
+          "original_sha256": "344f9e35ba9eb63efd02a46505628c981ab1b2dd4be1aabbbff7f730fe4a980d",
+          "target_sha256": "cc9fad595fae8bce7ed2203fb478fef23aef32b26dbdcc5f3e98b0fc25aa5462",
+          "payload": "Textures/cc9fad595fae8bce7ed2203fb478fef23aef32b26dbdcc5f3e98b0fc25aa5462.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 29500452768,
+          "size": 262144,
+          "original_sha256": "07d0c6509e39ed228778da53df3936e740fd3c549ee66a1ce07a472adfdc16f0",
+          "target_sha256": "2a87548a7fc2ae52c646809558ce469e03e7270414513748d31a017c9175d7de",
+          "payload": "Textures/2a87548a7fc2ae52c646809558ce469e03e7270414513748d31a017c9175d7de.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 29520965536,
+          "size": 720896,
+          "original_sha256": "cd38171435f80df1c69baa778acfff8dd59c78bb57c83a91d1a4b876111b0864",
+          "target_sha256": "3a755ac3286cefb43f5e39bb1ab722d0fd98a3511bbab76177fc95ee2676c983",
+          "payload": "Textures/3a755ac3286cefb43f5e39bb1ab722d0fd98a3511bbab76177fc95ee2676c983.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 29529092000,
+          "size": 720896,
+          "original_sha256": "43f82082de6fd490250f9e6943d9e402e06dd08e810024e3314d4245fe751a5d",
+          "target_sha256": "6e9f20d5d385d1518b74815bcd388dee0c4c272df5faaa4d419d1da1091dfac9",
+          "payload": "Textures/6e9f20d5d385d1518b74815bcd388dee0c4c272df5faaa4d419d1da1091dfac9.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30468996304,
+          "size": 720896,
+          "original_sha256": "0807a1dd06603d82e8132f9e27e7945dd4f4a8e75b0ce78ca818797c0e06dca4",
+          "target_sha256": "309ab2d4dfb28887af71a9b73c8f64312c01e3a47c22fb93033f712a2dcd31d4",
+          "payload": "Textures/309ab2d4dfb28887af71a9b73c8f64312c01e3a47c22fb93033f712a2dcd31d4.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30471158992,
+          "size": 720896,
+          "original_sha256": "d548d6686c4189b5efa972b3025e1d587f074fd45acf430a900ed369b1a29b32",
+          "target_sha256": "7bbe628d49a290d069569fe15a46331e87457842aba0cd570191adb0ddf2856f",
+          "payload": "Textures/7bbe628d49a290d069569fe15a46331e87457842aba0cd570191adb0ddf2856f.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30473321680,
+          "size": 720896,
+          "original_sha256": "f6f4c4847eee1ab0435e794aaf1324bb028b669d6d500eec820a029e7bff8e83",
+          "target_sha256": "a3cba95e428386374cf2bd4b09f89afb81cb5be7d4a1728494af43d92b8c8c39",
+          "payload": "Textures/a3cba95e428386374cf2bd4b09f89afb81cb5be7d4a1728494af43d92b8c8c39.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30475484368,
+          "size": 720896,
+          "original_sha256": "67db7acd184508349c3c14acade56cdd54870344119e1528b984dfc0216a2d94",
+          "target_sha256": "03a1d39f5f6bed4e2c8622a528a069af0059424820d12bfad7804d13566dc9a9",
+          "payload": "Textures/03a1d39f5f6bed4e2c8622a528a069af0059424820d12bfad7804d13566dc9a9.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30477647056,
+          "size": 720896,
+          "original_sha256": "86ad7bbf699a3e6d993634d26ccd2df3719940fe6b674c200c1ce6d3dcacf5dc",
+          "target_sha256": "8d68486891ad719c31f668251bb0afe5ceff003eb9af170d40aa8da166f53dad",
+          "payload": "Textures/8d68486891ad719c31f668251bb0afe5ceff003eb9af170d40aa8da166f53dad.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30479809744,
+          "size": 720896,
+          "original_sha256": "639d5e43e8ee4c917230f04001871dd5f08d980a0952c991f02809546984cc04",
+          "target_sha256": "f15cf926833c945889cd3b01f9f00f023a3640a0ee8a311b8c9334063c38cf72",
+          "payload": "Textures/f15cf926833c945889cd3b01f9f00f023a3640a0ee8a311b8c9334063c38cf72.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30516575440,
+          "size": 720896,
+          "original_sha256": "072b60be5a5b67826256d56505debf507855583ad45df8d1711c71002f5cc5e3",
+          "target_sha256": "f15c7230f25974bea9ec3fda59c9918bbc14174c4e28ba1eb7c9a413c350e8b0",
+          "payload": "Textures/f15c7230f25974bea9ec3fda59c9918bbc14174c4e28ba1eb7c9a413c350e8b0.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30518738128,
+          "size": 720896,
+          "original_sha256": "d07fa57c39fc1d00ac270da177cd8413b002392f7e2a8364f8ec79cf2850808b",
+          "target_sha256": "83ef94c44be3e49cdbe264c8e38f4b33e60d48db28c42bb684debb2df3495249",
+          "payload": "Textures/83ef94c44be3e49cdbe264c8e38f4b33e60d48db28c42bb684debb2df3495249.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30521949392,
+          "size": 720896,
+          "original_sha256": "501d89aa575a2fb3677b98ad30bd2b5cf8d1a4aea84e13a81442b17a1cf2be83",
+          "target_sha256": "241ae02f75a31a6c53f8492cf74e962a45ca4357c6c99391f7ab9b849460d427",
+          "payload": "Textures/241ae02f75a31a6c53f8492cf74e962a45ca4357c6c99391f7ab9b849460d427.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30524832976,
+          "size": 720896,
+          "original_sha256": "b8790929246edfcd1f63823049fd8b368b01725f6f903bb534da043832fcdf7c",
+          "target_sha256": "755a7f511a34e4054c305962e2f4f60caa9a14915d229874df318b1e922bd9e0",
+          "payload": "Textures/755a7f511a34e4054c305962e2f4f60caa9a14915d229874df318b1e922bd9e0.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30536895184,
+          "size": 65536,
+          "original_sha256": "8651d5400bd74613ce07f92cd41a9439b8c7032caaba7b35476706ec75421b38",
+          "target_sha256": "89db8c71e730d3b731d0d8473d660330e1b3ba182dd7312cb2b60c8649e8ef1e",
+          "payload": "Textures/89db8c71e730d3b731d0d8473d660330e1b3ba182dd7312cb2b60c8649e8ef1e.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30536960720,
+          "size": 65536,
+          "original_sha256": "12d7d3c24ebb70f2b1f9498de42ac801ff5578806092ad3084d9d8ff6bbb1072",
+          "target_sha256": "322ac24605b16d4ec9470247eb2e074f2d20df3bd96e2f141350945d3fa86455",
+          "payload": "Textures/322ac24605b16d4ec9470247eb2e074f2d20df3bd96e2f141350945d3fa86455.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30537026256,
+          "size": 65536,
+          "original_sha256": "9fb67ccc6ab8f1d36d3fdc1e9be3687d5c556b020a18dddfaac636397bbb9f34",
+          "target_sha256": "b4796299cc322d89b9f71d7030b883fab1858cf8ca1f2863e273b8e8cda9b4ab",
+          "payload": "Textures/b4796299cc322d89b9f71d7030b883fab1858cf8ca1f2863e273b8e8cda9b4ab.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 30537091792,
+          "size": 65536,
+          "original_sha256": "dc9a6711da4e66c424870855ef92f9855e86998d88c9899630a1cf08890cbfa1",
+          "target_sha256": "760a45298171ab30f6a1c7009a781b5b9b4bc20242f077faf97fbb8a092c412c",
+          "payload": "Textures/760a45298171ab30f6a1c7009a781b5b9b4bc20242f077faf97fbb8a092c412c.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 31082482384,
+          "size": 196608,
+          "original_sha256": "0eefe0388b87dabc6a1ac81debc26638ab25ee457033466f67d8904587405fdf",
+          "target_sha256": "d3c0d3f22cf9ce903f719a6eee6c57324b45987171783c8ccf20fe03ed0f3ea1",
+          "payload": "Textures/d3c0d3f22cf9ce903f719a6eee6c57324b45987171783c8ccf20fe03ed0f3ea1.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 32106362272,
+          "size": 196608,
+          "original_sha256": "9ce2014494aa83e3ca66b59bbd66a824aced50d05833cf96e301e6362369422e",
+          "target_sha256": "110bd9a9ab6d2bbe3b8301be79c032a18296995f95a224df1dbdc8f28f3934b8",
+          "payload": "Textures/110bd9a9ab6d2bbe3b8301be79c032a18296995f95a224df1dbdc8f28f3934b8.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 32351270304,
+          "size": 720896,
+          "original_sha256": "39259b7d8dac26af19382802bf6698ec5c72cd5d9fd822ae9a18a442b3b067c5",
+          "target_sha256": "d4bb4455be8f7961adc4d4e0e5ac4f466d02cd81987f5046f12c6a1735cc5a33",
+          "payload": "Textures/d4bb4455be8f7961adc4d4e0e5ac4f466d02cd81987f5046f12c6a1735cc5a33.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 34268181280,
+          "size": 196608,
+          "original_sha256": "3553365e9dbd2c843070199b599a297910ce1b878961622f71be93f153e87a2f",
+          "target_sha256": "9c2fbdc7129d94dd6d4cec03edd4c9ffbe23c868fc9f1f63417bbc1266dd7dbb",
+          "payload": "Textures/9c2fbdc7129d94dd6d4cec03edd4c9ffbe23c868fc9f1f63417bbc1266dd7dbb.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 34271261472,
+          "size": 65536,
+          "original_sha256": "0b9757e90862cb21c915601bf9aa5158f9de16613ce697bac029f314c215087a",
+          "target_sha256": "b936a426827ba3146806e44d8bcf59e622de1186163598da9aefd049a68d7337",
+          "payload": "Textures/b936a426827ba3146806e44d8bcf59e622de1186163598da9aefd049a68d7337.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 34271327008,
+          "size": 196608,
+          "original_sha256": "9015950db6ec46db179f6943b5410b86e8e7c23df840b12cae57fcff46a8f22e",
+          "target_sha256": "19fe3ce96d5494ea8dfa047c173d7ea1bbb4087b6f0287b6fccd3f903719f911",
+          "payload": "Textures/19fe3ce96d5494ea8dfa047c173d7ea1bbb4087b6f0287b6fccd3f903719f911.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 34640884512,
+          "size": 720896,
+          "original_sha256": "c23f6a9d08554772fe61c5941cd39a01a629464e3eb1ec386baecb9ac180e6a1",
+          "target_sha256": "8a7d352185d5e7826efe98e084f089b70b7b9ac00f061f5c4f180616fa7ebade",
+          "payload": "Textures/8a7d352185d5e7826efe98e084f089b70b7b9ac00f061f5c4f180616fa7ebade.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37843480176,
+          "size": 196608,
+          "original_sha256": "784c3a392e22987a49c73f9a84478e969779e6c54671f8f25f044a56d9a6cdaf",
+          "target_sha256": "679c84d754e739110e2e9936a54ecb4b124bbb556c2897cc4cd92822a357252e",
+          "payload": "Textures/679c84d754e739110e2e9936a54ecb4b124bbb556c2897cc4cd92822a357252e.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37937327728,
+          "size": 458752,
+          "original_sha256": "983fee73a1a9f12472df1c4e5cf32540cee7e302172069ecfa9203d2d554a8b2",
+          "target_sha256": "7a4dfd8d3fbdca3d0ce24d3b2a0c66ae9238d7ba894bdb6d90450644b3a81467",
+          "payload": "Textures/7a4dfd8d3fbdca3d0ce24d3b2a0c66ae9238d7ba894bdb6d90450644b3a81467.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37937786480,
+          "size": 458752,
+          "original_sha256": "5ac266e2a7f7648f14046c9254749c36e93cf94071e764f04efcc77c4865a207",
+          "target_sha256": "1d4d7703d98494b5f26f5d311eccc2680641ae43260dad12315fe374c0d975ad",
+          "payload": "Textures/1d4d7703d98494b5f26f5d311eccc2680641ae43260dad12315fe374c0d975ad.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37946568304,
+          "size": 1441792,
+          "original_sha256": "9ca2847a6d6dac26608df5f183a67b0fd563fd5f0b94721042101cb028aa17a9",
+          "target_sha256": "35607be8fa2a4c1d37ac376405c0a4c77fdee382d7eadb232fac9a2ab77ea3a3",
+          "payload": "Textures/35607be8fa2a4c1d37ac376405c0a4c77fdee382d7eadb232fac9a2ab77ea3a3.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37948010096,
+          "size": 1441792,
+          "original_sha256": "1cd334f663f82e862736368bc877b01f3f5518d2799b6b2dc25fe443306441e7",
+          "target_sha256": "544800be40c55ccef9f7912beae9adcb80f5236ff726c5a5c281653d45c2efbb",
+          "payload": "Textures/544800be40c55ccef9f7912beae9adcb80f5236ff726c5a5c281653d45c2efbb.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37950893680,
+          "size": 1441792,
+          "original_sha256": "bbc6a02a7a2f6fefd77abff6a36dd8bb8227dcbbeea752dd46e302213ff3d359",
+          "target_sha256": "a3bd06bc6c41bde3c694c0a3473744692e200f15bf36bc785ad190be62541995",
+          "payload": "Textures/a3bd06bc6c41bde3c694c0a3473744692e200f15bf36bc785ad190be62541995.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37952335472,
+          "size": 1441792,
+          "original_sha256": "06a98872b8e26d82de4dc9c8e8085d21fb9dcdae3b53cb47c2c841fbafeeb605",
+          "target_sha256": "5d61d5e94704b0e57637b8ae411331a9b04acbd829eb4b7b4b736ea989467829",
+          "payload": "Textures/5d61d5e94704b0e57637b8ae411331a9b04acbd829eb4b7b4b736ea989467829.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37953777264,
+          "size": 1441792,
+          "original_sha256": "a943d8c9d23af8639696c027c866973112eb404ce757f58f61b3f7132d0312c6",
+          "target_sha256": "607bc1ad20336b770bc982e2e9c8efc0ca9598ab54e804d3b517f04caa8c5d29",
+          "payload": "Textures/607bc1ad20336b770bc982e2e9c8efc0ca9598ab54e804d3b517f04caa8c5d29.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37958102640,
+          "size": 1441792,
+          "original_sha256": "fd7205bfeacc9e559b76ba5cd6a29d5fce8a95a9c4b7f703d497bb545fa4aae9",
+          "target_sha256": "f15afa47c397b1f7aa76f5a46dace3133bc5abc1d13def14638661885c92e19f",
+          "payload": "Textures/f15afa47c397b1f7aa76f5a46dace3133bc5abc1d13def14638661885c92e19f.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37959544432,
+          "size": 1441792,
+          "original_sha256": "5e5c64c8022e235b6eedda12d7470cf3b284205128b5bbc7f861564286618575",
+          "target_sha256": "c11032d75969ceee11d09c3aaa92110d393fdb92d3e928fde387a5181c46d75a",
+          "payload": "Textures/c11032d75969ceee11d09c3aaa92110d393fdb92d3e928fde387a5181c46d75a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37960986224,
+          "size": 1441792,
+          "original_sha256": "458f8ffb8c579dcdcfa379ebd8a8154a9c519b22a9772bbbae01b9131e9bc462",
+          "target_sha256": "83d913a2022e898d938f42f2dd5879b2589e9d97fa8d2a8ae5c938d713c28999",
+          "payload": "Textures/83d913a2022e898d938f42f2dd5879b2589e9d97fa8d2a8ae5c938d713c28999.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37962428016,
+          "size": 1441792,
+          "original_sha256": "36d4a45502a6853cacf32ffb35aac9a9dc73dc85a48bdf13ffc672dfcf18945e",
+          "target_sha256": "24bea07544b4fab495c7b95cd90f2a493158bdea32d577a833abe68e2be0e5d1",
+          "payload": "Textures/24bea07544b4fab495c7b95cd90f2a493158bdea32d577a833abe68e2be0e5d1.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37963869808,
+          "size": 1441792,
+          "original_sha256": "995a90cb32e3f49ce3803aa3545e06a96b00cf603d7a8539e1cc94bc220de57e",
+          "target_sha256": "537733c7047063cbc8644e2b4f5a91cfcf0552e75f2ca4d93accf118aae13483",
+          "payload": "Textures/537733c7047063cbc8644e2b4f5a91cfcf0552e75f2ca4d93accf118aae13483.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37968195184,
+          "size": 1441792,
+          "original_sha256": "f54fa5e2ef7d25a1241d76cb804719c7b82cb229009d8ebbaf01095dbbc0023e",
+          "target_sha256": "595370c2e93b1df3865076b1b3d3a9beb8415a8ef512db6bb09819719da1840f",
+          "payload": "Textures/595370c2e93b1df3865076b1b3d3a9beb8415a8ef512db6bb09819719da1840f.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37972520560,
+          "size": 1441792,
+          "original_sha256": "27f753cec452bfd2436b825f208ce2938fd805d52718033fd86346d3b3494886",
+          "target_sha256": "7f2ef78725397d20c706b5b4a2f948d0732db253d2705461bf1d32bd3d53bca0",
+          "payload": "Textures/7f2ef78725397d20c706b5b4a2f948d0732db253d2705461bf1d32bd3d53bca0.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37973962352,
+          "size": 1441792,
+          "original_sha256": "080b06436dd4009e91cbf7f39e2dd2d15e896458ee516eea78b2bb2cc101df5b",
+          "target_sha256": "f80a3fef515ef5d09c3f0d02146cb8cb59112ecc19353bca2ff738618ba41786",
+          "payload": "Textures/f80a3fef515ef5d09c3f0d02146cb8cb59112ecc19353bca2ff738618ba41786.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37975404144,
+          "size": 1441792,
+          "original_sha256": "a876f3e799e3588fedaf227888af7df706a6438d1e066b077687a292c2fb3051",
+          "target_sha256": "fbbaa45da8ca5413d8b7e8a56d1f7c4d2b899022d213d07e199fddd72381ecd1",
+          "payload": "Textures/fbbaa45da8ca5413d8b7e8a56d1f7c4d2b899022d213d07e199fddd72381ecd1.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37976845936,
+          "size": 1441792,
+          "original_sha256": "760d01ae2fcb02ac073fac45c259315e60d933295b899c9e67fb0e684db43089",
+          "target_sha256": "52cd2016f04866cb5e8511b077141a79ee19926d7e24e359ddecfd2e07fd492a",
+          "payload": "Textures/52cd2016f04866cb5e8511b077141a79ee19926d7e24e359ddecfd2e07fd492a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37978287728,
+          "size": 1441792,
+          "original_sha256": "f0ea5d10335af4ea4bcd507d931886a1729c3408d2d47ab655240843a8164f49",
+          "target_sha256": "d302d7f5a1b43fcc48d2b0d10ddd61182efe2c8f24789c05927bbe1dc506fda5",
+          "payload": "Textures/d302d7f5a1b43fcc48d2b0d10ddd61182efe2c8f24789c05927bbe1dc506fda5.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37981171312,
+          "size": 1441792,
+          "original_sha256": "dd0dfef527b6cf5878fd674dc504b569bd0a1b0223d73afd9ea31bfc77ba5bcd",
+          "target_sha256": "5c0bcf8c32b69d3a02f978d336eaa3996fc2f90791a85f535bc68f7fc2ad0401",
+          "payload": "Textures/5c0bcf8c32b69d3a02f978d336eaa3996fc2f90791a85f535bc68f7fc2ad0401.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37982613104,
+          "size": 1441792,
+          "original_sha256": "4e4325fbde588630aa5af1c37f5c472b5bf6fd4440f9bb81bd1475aa324f5755",
+          "target_sha256": "a325d47cd85df0a210e93b6c79caa7713c462116df6a58ea8111471dabc1be6b",
+          "payload": "Textures/a325d47cd85df0a210e93b6c79caa7713c462116df6a58ea8111471dabc1be6b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37984054896,
+          "size": 1441792,
+          "original_sha256": "7a6833fd37e588292aba67389fc2a60068e6e98b44af90b5bbbb790aa757d9d0",
+          "target_sha256": "3ecc455fe283e621f1a3a6d1a9562fa203463d3b4c830eb9b9fd2c771cc5fd3a",
+          "payload": "Textures/3ecc455fe283e621f1a3a6d1a9562fa203463d3b4c830eb9b9fd2c771cc5fd3a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37985496688,
+          "size": 1441792,
+          "original_sha256": "5907709bc5c0f895691dc9a2c7a472d5b3b08c50a9c2949a4fc6f3a62365f4dd",
+          "target_sha256": "4d679d1db9f1f2854a1243040344817a5374dc0851d080a69565d62aba71f4cb",
+          "payload": "Textures/4d679d1db9f1f2854a1243040344817a5374dc0851d080a69565d62aba71f4cb.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37986938480,
+          "size": 1441792,
+          "original_sha256": "f84c0ccae4b397a85902cd63eaaf9b7820bb182b3922ebaae4d71e882a60601f",
+          "target_sha256": "27c26d5e475bb982eb579c6de5ced2eeba3f465ac787d2ded108353d2552dc16",
+          "payload": "Textures/27c26d5e475bb982eb579c6de5ced2eeba3f465ac787d2ded108353d2552dc16.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37988380272,
+          "size": 1441792,
+          "original_sha256": "01c9f8e0261c5385735b4535798c719cc7c02a01c3655f84440da6b1ec026004",
+          "target_sha256": "955fbf42c6d5dd7a9e82d30109abb6557b739fd2a0862dcd7ca7bb5560fd578f",
+          "payload": "Textures/955fbf42c6d5dd7a9e82d30109abb6557b739fd2a0862dcd7ca7bb5560fd578f.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37995589232,
+          "size": 1441792,
+          "original_sha256": "726e4b8ee22b9832b3a378fb1b4fb7dd7a81ce0f0f95556ada34c9f1e412b7ed",
+          "target_sha256": "e0ed67c278e45a5a8438e15eb62b1ea4afd03791c5af42384463cb081f7d1416",
+          "payload": "Textures/e0ed67c278e45a5a8438e15eb62b1ea4afd03791c5af42384463cb081f7d1416.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37997031024,
+          "size": 1441792,
+          "original_sha256": "79bc8738af0cde965258aca1b8beb7499ebb679b0469cb1747f97f75fe8765aa",
+          "target_sha256": "8abadb80431a8cb0c3a5aa80980e50ad8563bd6c3ba0b47a14dc11b128364974",
+          "payload": "Textures/8abadb80431a8cb0c3a5aa80980e50ad8563bd6c3ba0b47a14dc11b128364974.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 37999914608,
+          "size": 1441792,
+          "original_sha256": "4ed9dd4a70389631b34ef500369b936f177b572946a50968c0da05a57ddda688",
+          "target_sha256": "1ad99d93e5a896ffdcb60706b26f915fcb72e46c68f189bb06640339924009b7",
+          "payload": "Textures/1ad99d93e5a896ffdcb60706b26f915fcb72e46c68f189bb06640339924009b7.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38001356400,
+          "size": 1441792,
+          "original_sha256": "63223057bfba1f14de1c82c6ef2accd3173814bb5b00246c34db6c3f2c155f0a",
+          "target_sha256": "fd65ffccc47a886b2faacc4b59a18e44b4c5ea85afe50b33d649ff28913c0ede",
+          "payload": "Textures/fd65ffccc47a886b2faacc4b59a18e44b4c5ea85afe50b33d649ff28913c0ede.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38004239984,
+          "size": 1441792,
+          "original_sha256": "923059d768723728a1c26a2fb922170abc663f29f59d78a4f0362ea452eb4783",
+          "target_sha256": "63768d03e306781b378c9492b000c9c3b1a4490aa93dc87a0f3583d389925e4c",
+          "payload": "Textures/63768d03e306781b378c9492b000c9c3b1a4490aa93dc87a0f3583d389925e4c.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38005681776,
+          "size": 1441792,
+          "original_sha256": "8cf6ffd0d514107fa61189b608de532821f947588205fd10821436e3a9d48f2e",
+          "target_sha256": "a2c27fb66164b64b1b98152a4ab7232358adb465695d3b8e49ee88fdd655e1f0",
+          "payload": "Textures/a2c27fb66164b64b1b98152a4ab7232358adb465695d3b8e49ee88fdd655e1f0.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38007123568,
+          "size": 1441792,
+          "original_sha256": "ad43a50f42c9d828608cd78127593778b79058f0ac2dfd3416eabcbcdad19614",
+          "target_sha256": "7fd77f122a5fc4260bc9c0b2ebcb3d9b7a22e8445f7f5f0bdd52400e565d4670",
+          "payload": "Textures/7fd77f122a5fc4260bc9c0b2ebcb3d9b7a22e8445f7f5f0bdd52400e565d4670.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38008565360,
+          "size": 1441792,
+          "original_sha256": "fd22d9c56f27a18db1d802fd65b9b05c75dd16432c47d9666e7c56e9d469d152",
+          "target_sha256": "3bb2c7b85f0e4cae4e2ce547743434c994f63bb6d71274a37b378ede61adf7c8",
+          "payload": "Textures/3bb2c7b85f0e4cae4e2ce547743434c994f63bb6d71274a37b378ede61adf7c8.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38010007152,
+          "size": 1441792,
+          "original_sha256": "ec1281ca1e6d35cc35e2c5d767bcca8966b40551ebcdf0ee3d2e4de2ee4a4f24",
+          "target_sha256": "61b96e34b4805c09c76c064fc751e38d86d05bba996cbd5ad77b28659fa6918c",
+          "payload": "Textures/61b96e34b4805c09c76c064fc751e38d86d05bba996cbd5ad77b28659fa6918c.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38011448944,
+          "size": 1441792,
+          "original_sha256": "22b47b1d34a61b44e2f9db64197bf8ebc8b3c8a8f5c5cae1f1fa1d5909e76417",
+          "target_sha256": "da969ca7add77778559b71880b40e9234fab5f63c7dc9cfa9fee769a23458a48",
+          "payload": "Textures/da969ca7add77778559b71880b40e9234fab5f63c7dc9cfa9fee769a23458a48.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38012890736,
+          "size": 1441792,
+          "original_sha256": "9a34b566eccc254f9fae8c6f08f0d09e0a9d59c463c5a94c7bb69762b1622b7d",
+          "target_sha256": "1ef386a451cebf88bde608e38c2aa2c2aef3ea0e6208d7a02448f18108e72546",
+          "payload": "Textures/1ef386a451cebf88bde608e38c2aa2c2aef3ea0e6208d7a02448f18108e72546.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38014332528,
+          "size": 1441792,
+          "original_sha256": "3c994e08cbbee88e2aed072484d24fe21bb88c0372d72f692e92622947d4cfcd",
+          "target_sha256": "0f25e26f6f6cbfc67ebdde02ccd1dfbc650442431b11c045635e57d24d880eda",
+          "payload": "Textures/0f25e26f6f6cbfc67ebdde02ccd1dfbc650442431b11c045635e57d24d880eda.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38015774320,
+          "size": 1441792,
+          "original_sha256": "a7521abfefcca0301cbdc59efea84b4f5961f72c58d2d61f3b606115914e8784",
+          "target_sha256": "d896dd17896796beaa3d5147279d95a7a8ccbff90fa90911c040615ca7b1bdbf",
+          "payload": "Textures/d896dd17896796beaa3d5147279d95a7a8ccbff90fa90911c040615ca7b1bdbf.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38018657904,
+          "size": 1441792,
+          "original_sha256": "9796de504424d7fabae028d576b5eda60c3abe714b9ed26b9802bd43487a7f6e",
+          "target_sha256": "e025af51849a0f442e6455ef03d7cd76ef197e541445f183a211dc3deb91bf4f",
+          "payload": "Textures/e025af51849a0f442e6455ef03d7cd76ef197e541445f183a211dc3deb91bf4f.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38020099696,
+          "size": 1441792,
+          "original_sha256": "88b7cd67f4ac3d9dde76991e04a29bb400e282d21216fc97ee08f62738ef020b",
+          "target_sha256": "9510131ff087dbd4cf679b8ec7fc9e0ab46844118f7ed4192886288e91119787",
+          "payload": "Textures/9510131ff087dbd4cf679b8ec7fc9e0ab46844118f7ed4192886288e91119787.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38021541488,
+          "size": 1441792,
+          "original_sha256": "52893de59c340c91c867b0c917bd489b680988f8910b05b459bea3a05711a337",
+          "target_sha256": "f60fe33f30e20df03e328d29b279e84e42f27f4663cca4f124d1a75d8d86871a",
+          "payload": "Textures/f60fe33f30e20df03e328d29b279e84e42f27f4663cca4f124d1a75d8d86871a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38022983280,
+          "size": 1441792,
+          "original_sha256": "66b79025333b2721218578e5537258565e63550306c1594dfeb3462e7e25fa5d",
+          "target_sha256": "5c809047cf19660b96ac8c6dffdd1502287368c51a37b2743d66afae44269a26",
+          "payload": "Textures/5c809047cf19660b96ac8c6dffdd1502287368c51a37b2743d66afae44269a26.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38024425072,
+          "size": 1441792,
+          "original_sha256": "ab2fff194335ebcf6e652e5f3c051ce15a44d427708381f45eb766b4d0ba3839",
+          "target_sha256": "8023fcb82e25678905178ad4edcab4e21cbac962d96b2b4d54c0eecb3a4d4979",
+          "payload": "Textures/8023fcb82e25678905178ad4edcab4e21cbac962d96b2b4d54c0eecb3a4d4979.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38025866864,
+          "size": 1441792,
+          "original_sha256": "6c26889d85a05d452702e8083b343c2769fa61fadea100d028c7b62945375472",
+          "target_sha256": "7acdd621bbfd0b3e3e85cf4aa3abbe6ea930d4aae40d75f8317964b672b5886c",
+          "payload": "Textures/7acdd621bbfd0b3e3e85cf4aa3abbe6ea930d4aae40d75f8317964b672b5886c.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38027308656,
+          "size": 1441792,
+          "original_sha256": "57f012dd5d9f836ddc8e667bdc6ff0ba1bc2c320a080dc96b0005958ca117d76",
+          "target_sha256": "a2ef2ab40e2e54a4417804b0665aaed38238378da6ff8b7df5146f951d9501a2",
+          "payload": "Textures/a2ef2ab40e2e54a4417804b0665aaed38238378da6ff8b7df5146f951d9501a2.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38028750448,
+          "size": 1441792,
+          "original_sha256": "0feee93f407298e613b94bc87720e849a7391003db83ddb53665474c0268f132",
+          "target_sha256": "d5b0b0743e4604576cf78f8d9cba4ad814b8a161d7e7a3adb5a61033f3a8a4bc",
+          "payload": "Textures/d5b0b0743e4604576cf78f8d9cba4ad814b8a161d7e7a3adb5a61033f3a8a4bc.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38030192240,
+          "size": 1441792,
+          "original_sha256": "8250c2b30bc79667625855780face4a6060589779da08d4fcd911550b080c92e",
+          "target_sha256": "9091eddf07ac4857dce00ca5b1332e8cf654db81c6ada3fa57cdd3ff2789c1bc",
+          "payload": "Textures/9091eddf07ac4857dce00ca5b1332e8cf654db81c6ada3fa57cdd3ff2789c1bc.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38031634032,
+          "size": 1441792,
+          "original_sha256": "32bf214ea02a4b634c5c63a8e5895b16088e27522776d5905a05ee83733b45bd",
+          "target_sha256": "830c66e74005df96787fae3b22bee48645f1728f6016b7b5a943888c0eaa96ec",
+          "payload": "Textures/830c66e74005df96787fae3b22bee48645f1728f6016b7b5a943888c0eaa96ec.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38037401200,
+          "size": 1441792,
+          "original_sha256": "f3810bb8dcc8dda4d567b042b7f896624a7e614bf968d5e1e368472124847d85",
+          "target_sha256": "be3fd7ed6cd38be160f96bb9872aae75c58099c2eeb56fb3ba62862b25df48ab",
+          "payload": "Textures/be3fd7ed6cd38be160f96bb9872aae75c58099c2eeb56fb3ba62862b25df48ab.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38038842992,
+          "size": 1441792,
+          "original_sha256": "a7b726d7ec9f6908c29f4117ba726a34268f43c5219f8d5476fd8cf89ea2e6fa",
+          "target_sha256": "6382778695db444829c981288e1918b00e8f884ea022f6f4ba99deb9b1cd3ebb",
+          "payload": "Textures/6382778695db444829c981288e1918b00e8f884ea022f6f4ba99deb9b1cd3ebb.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38040284784,
+          "size": 1441792,
+          "original_sha256": "feb329a639ec6f1dd4ae6c782320dfe02a8d611888d22d59788f70701fbfc6b0",
+          "target_sha256": "5ecc1bf4ab42ffe8b512e7c899b985494c66461a3d92ef2d40ed13b21c618098",
+          "payload": "Textures/5ecc1bf4ab42ffe8b512e7c899b985494c66461a3d92ef2d40ed13b21c618098.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38041726576,
+          "size": 1441792,
+          "original_sha256": "4cd3ba2c7ab0f190204d43a79b1feb4d186ce2d45d86cc5bb40d9fe7edffbd58",
+          "target_sha256": "9be51484e76d73fdc64618bce3fc9f3e1821e4d7f6c82f24416d9154475c0fc4",
+          "payload": "Textures/9be51484e76d73fdc64618bce3fc9f3e1821e4d7f6c82f24416d9154475c0fc4.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38047493744,
+          "size": 1441792,
+          "original_sha256": "963f1859e3717b8f116f0c8c995ebbd15dc81160bef52a34f451da1f76a26815",
+          "target_sha256": "4ae855c0882d72b45b82dc67b0684c891a3262cb37331123609df3f720df4fe8",
+          "payload": "Textures/4ae855c0882d72b45b82dc67b0684c891a3262cb37331123609df3f720df4fe8.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38048935536,
+          "size": 1441792,
+          "original_sha256": "ec1e85e16c15d94fcccea612445fd9bbbf49b2b476ed85e2d9aa1b758de61c91",
+          "target_sha256": "d308ed819b6fe49d10ab5574c37b40c2d3df8e8c5f835d5130e551394827a1b7",
+          "payload": "Textures/d308ed819b6fe49d10ab5574c37b40c2d3df8e8c5f835d5130e551394827a1b7.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38050377328,
+          "size": 1441792,
+          "original_sha256": "53e301c32917a6d3f8d65b4d9bdcde60c422786f237c5169f3842e97b1e6c16f",
+          "target_sha256": "87e526464efa7ad9e5ea04be3e8b973c7b5d64abc9b8312dda3661cd59836aa5",
+          "payload": "Textures/87e526464efa7ad9e5ea04be3e8b973c7b5d64abc9b8312dda3661cd59836aa5.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38053260912,
+          "size": 1441792,
+          "original_sha256": "786d61fd6b1400e6a9242304c8757c018abe03b66ab81a8f9222d1cc13366813",
+          "target_sha256": "429cbe51a3325561e5cc8c75294a0fb6a08cfa08edf1efc61af3f7f25ead8ea1",
+          "payload": "Textures/429cbe51a3325561e5cc8c75294a0fb6a08cfa08edf1efc61af3f7f25ead8ea1.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38054702704,
+          "size": 1441792,
+          "original_sha256": "688890152b1dfade738fec6b6148e85885113171ec4ca133888cad899e16c4a3",
+          "target_sha256": "19a255893acf7d71f11b2ceb1be834321b57ebe8a241ee77e7da4fdd29efaad3",
+          "payload": "Textures/19a255893acf7d71f11b2ceb1be834321b57ebe8a241ee77e7da4fdd29efaad3.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38056144496,
+          "size": 1441792,
+          "original_sha256": "3ee51e9cd59f5bd559fd9479beb9d6ed7e559c09357898793e4a2e521ba459ca",
+          "target_sha256": "40ef2c62757d4a3e7ed407b739f564a0dddd13d793656575cf5b053ec86cbb0d",
+          "payload": "Textures/40ef2c62757d4a3e7ed407b739f564a0dddd13d793656575cf5b053ec86cbb0d.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38063353456,
+          "size": 1441792,
+          "original_sha256": "53b6f9cba644c0f047f387c69fc4a090716881b12eb10921b28241add3818194",
+          "target_sha256": "d128b51e902238d9cf9fc8356e0fe6293f1a4cae082c42d3f530b8ad70a90985",
+          "payload": "Textures/d128b51e902238d9cf9fc8356e0fe6293f1a4cae082c42d3f530b8ad70a90985.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38073511536,
+          "size": 1507328,
+          "original_sha256": "e6d097573f23a8bc2c1496d6c48b990fcbf8533163fec307e6dd503d477381b4",
+          "target_sha256": "d194f59553679625b41502aec85f3db40209d5b8bf320d0dae31af183d168963",
+          "payload": "Textures/d194f59553679625b41502aec85f3db40209d5b8bf320d0dae31af183d168963.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38076460656,
+          "size": 1507328,
+          "original_sha256": "e96fe3ee8ec1de3705189408d4850f271b7f256da25510203149e70da1c1f96d",
+          "target_sha256": "f44f641c9d8e96e61ccdda5f7869aaf0cf71551a89eb0651c8c4a76d69b1f761",
+          "payload": "Textures/f44f641c9d8e96e61ccdda5f7869aaf0cf71551a89eb0651c8c4a76d69b1f761.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38080786032,
+          "size": 1507328,
+          "original_sha256": "e6c6eb9c1297edda76539690244ba3c0be65a7731754c7d8061e99430485bf24",
+          "target_sha256": "1f42c45f005d098c418aa3f8894e92b81070bf02a8a074dfdec6bf73d957776b",
+          "payload": "Textures/1f42c45f005d098c418aa3f8894e92b81070bf02a8a074dfdec6bf73d957776b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38085111408,
+          "size": 1507328,
+          "original_sha256": "753432e047a15c50987b3663435df2c8066528e231220d40b2fd4e009917a498",
+          "target_sha256": "d27e05093a6c7cb936cbaab735fa4cb7643093cf92873c458e36710b19d3fa8e",
+          "payload": "Textures/d27e05093a6c7cb936cbaab735fa4cb7643093cf92873c458e36710b19d3fa8e.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38089502320,
+          "size": 1507328,
+          "original_sha256": "0cc577a17243576483ed85c898f1b24eb2d0c00261a5d1c5d0b4a26742ec6db2",
+          "target_sha256": "7369563fd49c3a4bc5ff449778efd2e8e64f8fe1bdcda0c13541a91a162a0932",
+          "payload": "Textures/7369563fd49c3a4bc5ff449778efd2e8e64f8fe1bdcda0c13541a91a162a0932.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38096842352,
+          "size": 1507328,
+          "original_sha256": "cdfa13bc3c860f7b5e5d22dde7710cf71b036c086fb553a6041978827c8d78bf",
+          "target_sha256": "fff79ff6d71ef4eb67a7959e67ad4e46dce17f28b27924ff239cac11f2bcfd00",
+          "payload": "Textures/fff79ff6d71ef4eb67a7959e67ad4e46dce17f28b27924ff239cac11f2bcfd00.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38126988912,
+          "size": 2818048,
+          "original_sha256": "b2fd03fbd9fa232dd26f5f273385d8ad9bc481cdef1efb811beaa46c1d736b42",
+          "target_sha256": "e61c0665e1a79eda7e842cbc5b8e694075469acd9c4f07584dd9f07beff49162",
+          "payload": "Textures/e61c0665e1a79eda7e842cbc5b8e694075469acd9c4f07584dd9f07beff49162.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38129806960,
+          "size": 720896,
+          "original_sha256": "9d485503a85bb88515b3a82195588d5ab8bff6b1d7b5a34c08ab525b2f40b95c",
+          "target_sha256": "4816540e8ae0cdb542ddc0320ca1b7a18c13afa866450ce74e92225c5d2266bb",
+          "payload": "Textures/4816540e8ae0cdb542ddc0320ca1b7a18c13afa866450ce74e92225c5d2266bb.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38134263408,
+          "size": 720896,
+          "original_sha256": "b89962f3334bbca3f7a967af5133eb02936f27615bf311f0d1273efb29a01920",
+          "target_sha256": "00a127b63ac68ce3d13b38fa7b2e6a2d16c2e105fdbbda297ca792d127df45da",
+          "payload": "Textures/00a127b63ac68ce3d13b38fa7b2e6a2d16c2e105fdbbda297ca792d127df45da.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38212152272,
+          "size": 65536,
+          "original_sha256": "d2c3c7d403bf1b81f073bcaa7819b04e19f8cf20f2440554d91b7884e962c28f",
+          "target_sha256": "38aff866015d9e5da4aa6253b2da071798f6d4cb094613a065cb1d2b7c9a8e14",
+          "payload": "Textures/38aff866015d9e5da4aa6253b2da071798f6d4cb094613a065cb1d2b7c9a8e14.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38219426768,
+          "size": 65536,
+          "original_sha256": "91e3dad45180751f4c53a7f57f63b8f87ed6d984abbd0e06487539114348684d",
+          "target_sha256": "89e29794bccb894b7b2616146b7a569d5f5791d8d2e29611ee6a73065fa26544",
+          "payload": "Textures/89e29794bccb894b7b2616146b7a569d5f5791d8d2e29611ee6a73065fa26544.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38223817680,
+          "size": 65536,
+          "original_sha256": "ffc9b4118f8095b4772936731d48a96e535da56a57b837a48a340dcba88fecda",
+          "target_sha256": "06d4d0ec97216a893c34b5567e64d79a60234b98c8b4cacac71d672b523ef086",
+          "payload": "Textures/06d4d0ec97216a893c34b5567e64d79a60234b98c8b4cacac71d672b523ef086.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38225325008,
+          "size": 65536,
+          "original_sha256": "a5e58f4c811f80de349a221d27947c00268d519eb7d15e9702a78fe172ca8f3c",
+          "target_sha256": "f3d966c580de956a2df5c80627210dab45938baefe791713ccaf6099ad9acaae",
+          "payload": "Textures/f3d966c580de956a2df5c80627210dab45938baefe791713ccaf6099ad9acaae.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38238301136,
+          "size": 458752,
+          "original_sha256": "b92bcae464347c041bc57e1b7bad3cb731d1e09fdd0e24c4fa19e1c54270106e",
+          "target_sha256": "4b3e3be18e919c77795181fb0be78a8e600557501ade10b883a73218229816b6",
+          "payload": "Textures/4b3e3be18e919c77795181fb0be78a8e600557501ade10b883a73218229816b6.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38238759888,
+          "size": 458752,
+          "original_sha256": "dd03e6168cea88b682ae24899560e8ab54ad911f80b0b38b07027f574131a53b",
+          "target_sha256": "b8ccc86fe579e385bb67d1964f7baa1e7047475c76f28687e9aad4550b1cdfd7",
+          "payload": "Textures/b8ccc86fe579e385bb67d1964f7baa1e7047475c76f28687e9aad4550b1cdfd7.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38239218640,
+          "size": 1507328,
+          "original_sha256": "e0521243b9f6d84be4ea09567ad719b5aa3a5514434b0708cf212a9d9d256ef3",
+          "target_sha256": "0e680015160302bd434d0dad24d8920016214a676bb546468ddee3f65a7b555c",
+          "payload": "Textures/0e680015160302bd434d0dad24d8920016214a676bb546468ddee3f65a7b555c.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38242167760,
+          "size": 458752,
+          "original_sha256": "c500ce60a1ca5e9075897d05f2d3a795f14b1281a115a88431e90784fa7d3e05",
+          "target_sha256": "f5eefd4c658def898cf8e35e3b7e0b2d457706bcb6d7fbbd605f5b42719da769",
+          "payload": "Textures/f5eefd4c658def898cf8e35e3b7e0b2d457706bcb6d7fbbd605f5b42719da769.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38243019728,
+          "size": 458752,
+          "original_sha256": "0effa94a9493bcc9090dafdf493b73b39733f8d9905e93642d00c742befe06f3",
+          "target_sha256": "2463ad64a455aa2aca6f0882464a40d352a7bd0556ae573ae6041aa3e7f9f3be",
+          "payload": "Textures/2463ad64a455aa2aca6f0882464a40d352a7bd0556ae573ae6041aa3e7f9f3be.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38243478480,
+          "size": 458752,
+          "original_sha256": "237dc510680f3b1bf58ec378cc4e47ab311ea6dfb028e66b5ff2473bc3b00790",
+          "target_sha256": "06718a130bdd570b585515fb0eb16c35dea4662d067f8158e75b234a73c76bfe",
+          "payload": "Textures/06718a130bdd570b585515fb0eb16c35dea4662d067f8158e75b234a73c76bfe.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38243937232,
+          "size": 458752,
+          "original_sha256": "d5c32ebf72f34809d2f325b89793a7bfd2eb32f38f73ea6150c1ac715a2bc28c",
+          "target_sha256": "89de3f71e5818e6e53faacef9aba61d2e47868141eaabd31621ae914104cfaa7",
+          "payload": "Textures/89de3f71e5818e6e53faacef9aba61d2e47868141eaabd31621ae914104cfaa7.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38244395984,
+          "size": 458752,
+          "original_sha256": "3d363289f03441aa9d4efffe33ad21a89704b3ae0678e243055b7b48ab826a0b",
+          "target_sha256": "03051c3b17142b5608ebda255e065929846c7f26756ee0f58680df37a7290c78",
+          "payload": "Textures/03051c3b17142b5608ebda255e065929846c7f26756ee0f58680df37a7290c78.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38254554064,
+          "size": 2818048,
+          "original_sha256": "fb23610202cdd7c6e120d62ac5feaacafd84996c6cac9b9258772a63bd7a16e1",
+          "target_sha256": "b73d39310b230f3882ee1c8f3dbb764486b841200552596b4943a1abaedcdbfd",
+          "payload": "Textures/b73d39310b230f3882ee1c8f3dbb764486b841200552596b4943a1abaedcdbfd.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38259534800,
+          "size": 2818048,
+          "original_sha256": "131a003ef129668cd1206ee491258ecb202d68fef0f242ca13744bff9fd1bfdf",
+          "target_sha256": "e81bc6a400db6fde9322cbc57009b0dced3d4f87969593e7502ac4f2b6062792",
+          "payload": "Textures/e81bc6a400db6fde9322cbc57009b0dced3d4f87969593e7502ac4f2b6062792.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38264515536,
+          "size": 2818048,
+          "original_sha256": "3899819099ab1cd9f20f5f4d7d3d5df4a7149a702a51d7757880d4d73c387961",
+          "target_sha256": "b2dea4f03e6912d87126078b6beee42ec8df0e15854140f4430ee793ec53f836",
+          "payload": "Textures/b2dea4f03e6912d87126078b6beee42ec8df0e15854140f4430ee793ec53f836.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38275787728,
+          "size": 2818048,
+          "original_sha256": "2570e5eece5201cd5dfec12b26cbb4bfe49d26080525ea1fb84cdb699f1010de",
+          "target_sha256": "e44fbe507177e677a43935d9609253fe49eea776f1bcb09c68a0aa681f1fa0e4",
+          "payload": "Textures/e44fbe507177e677a43935d9609253fe49eea776f1bcb09c68a0aa681f1fa0e4.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38279326672,
+          "size": 2818048,
+          "original_sha256": "fe5a7b01d11bbda0f4b3f2fca8bc6081613c3c3610c7c3f39ffab01baa4ace48",
+          "target_sha256": "a9741973e30f0527658a62adf7857bebda97beae4548e78d0db211b8dad3439e",
+          "payload": "Textures/a9741973e30f0527658a62adf7857bebda97beae4548e78d0db211b8dad3439e.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38286404560,
+          "size": 720896,
+          "original_sha256": "66849c9deff9c942d44027ec40c724d7e5594aab06ad3ac1c4bb5e194d1b7fed",
+          "target_sha256": "a6a2f6b57803ba989ccaa61a2df22caf8d4e93e280f8fdbf3483da61f25d12ab",
+          "payload": "Textures/a6a2f6b57803ba989ccaa61a2df22caf8d4e93e280f8fdbf3483da61f25d12ab.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38287715280,
+          "size": 2818048,
+          "original_sha256": "4908825b4435880651359e835534614c760094eeedfc032ad1ba8595ac7b3070",
+          "target_sha256": "79c305116340bcaffac8d1515c951f5a1f38ad69471e7d7c0ac72500f673701d",
+          "payload": "Textures/79c305116340bcaffac8d1515c951f5a1f38ad69471e7d7c0ac72500f673701d.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38290533328,
+          "size": 720896,
+          "original_sha256": "864b5b634c647ef80c6aa82f6a6dbce7d9692f80ff64d34bcfcfbf5ad0ca5cc4",
+          "target_sha256": "f1c9e9610681435cf8a43bffa585f8960ba21a0b4a25a4c8ba5c0a5fcc6ec28b",
+          "payload": "Textures/f1c9e9610681435cf8a43bffa585f8960ba21a0b4a25a4c8ba5c0a5fcc6ec28b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38294006736,
+          "size": 2818048,
+          "original_sha256": "c3cd849654c8d371605d536c5f4b6330deb50e01fdf23d8ed46553900361d157",
+          "target_sha256": "39cfe473ae33c75f1612bfb7ad2491cf968ee61dc7ae2f9133687d20805d0e5d",
+          "payload": "Textures/39cfe473ae33c75f1612bfb7ad2491cf968ee61dc7ae2f9133687d20805d0e5d.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38298987472,
+          "size": 2818048,
+          "original_sha256": "3f8048138c308183b70e2ef243f84a471a280dc7537734e349a7477aed2dfd94",
+          "target_sha256": "e100a1dfaad88654832eb6a49579fdfec757688e998e996ad33b97ee830f634b",
+          "payload": "Textures/e100a1dfaad88654832eb6a49579fdfec757688e998e996ad33b97ee830f634b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38303968208,
+          "size": 2818048,
+          "original_sha256": "18bd2d70f7ac382d5ecacb4a244baf6272d21bb7d3efccdbc9e4301e905efc71",
+          "target_sha256": "6a4f18af890c4fef0262689dae527e0db0aa97eb520de877cf0bd6a363ff3946",
+          "payload": "Textures/6a4f18af890c4fef0262689dae527e0db0aa97eb520de877cf0bd6a363ff3946.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38310390736,
+          "size": 720896,
+          "original_sha256": "25fa14104fc79132e02c066733e389d5c2a25a188ee96021c90eea4904d5f17a",
+          "target_sha256": "5e82cdf0eacad04a2f1ad87908e1d0a9bb249ad4dd0e928c4ef0f24a08748b1a",
+          "payload": "Textures/5e82cdf0eacad04a2f1ad87908e1d0a9bb249ad4dd0e928c4ef0f24a08748b1a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38311111632,
+          "size": 2818048,
+          "original_sha256": "01b9a43d7964d0f1bea5cda4e5600c5d2c7d462237cbb4d6c11d2afc7364b897",
+          "target_sha256": "f838152adacdbd8c372acf04b5d81e8e81293d08f91c30b8fa836567c1da7abe",
+          "payload": "Textures/f838152adacdbd8c372acf04b5d81e8e81293d08f91c30b8fa836567c1da7abe.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38323825616,
+          "size": 2818048,
+          "original_sha256": "f6bc48f0f37e8f5c13aa59028a522d1ca91d62cb49ac2b5069577256a858640c",
+          "target_sha256": "becc53526c2c7ebe61b2ee3b85cbfd753f3258e0e45f35e437c4921bac6f0cb9",
+          "payload": "Textures/becc53526c2c7ebe61b2ee3b85cbfd753f3258e0e45f35e437c4921bac6f0cb9.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38332345296,
+          "size": 720896,
+          "original_sha256": "1489a32564937cf947590f74114360f5cd70557e8aea332370c2a2b2ad0708ba",
+          "target_sha256": "f68aab591bad8312ca0fa2fdec4dd3a8c99fd68da4ed10278ce55bc2b44e073e",
+          "payload": "Textures/f68aab591bad8312ca0fa2fdec4dd3a8c99fd68da4ed10278ce55bc2b44e073e.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38336015312,
+          "size": 720896,
+          "original_sha256": "e18cb317a5c96dcd7fcf2d6fe8d14b9c3c05cc4d66b74175c50a3002ef2b2a03",
+          "target_sha256": "98f58832905851f4fb799648c513d62e58b501629e27736641223195f6f6f448",
+          "payload": "Textures/98f58832905851f4fb799648c513d62e58b501629e27736641223195f6f6f448.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38337129424,
+          "size": 2818048,
+          "original_sha256": "d134c1e926606fa50bbe7b8a9fa54ad7cfd96c5fc26db6ef7e2c52a915df7070",
+          "target_sha256": "07ce7c77ef42573e0cad76b991a13b8279c8d83ca8f003971b625dd224f9866d",
+          "payload": "Textures/07ce7c77ef42573e0cad76b991a13b8279c8d83ca8f003971b625dd224f9866d.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38345649104,
+          "size": 2818048,
+          "original_sha256": "7807552e67d0dd808723b67b7074ee42992bb424fac5eb8d0ca041dc887afc94",
+          "target_sha256": "842802fce763d8dcdbffaf9067387062b9db9ba2a2a96ce493e1b690d913929d",
+          "payload": "Textures/842802fce763d8dcdbffaf9067387062b9db9ba2a2a96ce493e1b690d913929d.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38350629840,
+          "size": 2818048,
+          "original_sha256": "a2269f3dd6a57ecd1d014451844d0f0ee64e9c4e5c6cd957f9ac027a524faf6d",
+          "target_sha256": "5e7d0b1cbe2b4bff445c3d4e919aad0e28eeb951ce122dac271b9d165ac21994",
+          "payload": "Textures/5e7d0b1cbe2b4bff445c3d4e919aad0e28eeb951ce122dac271b9d165ac21994.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38354889680,
+          "size": 2818048,
+          "original_sha256": "05fffdcbe9c193c61ab905bc93f92db67b1a6696028f8138993e474a0264c811",
+          "target_sha256": "ecc19ba76254d2deb03132a15843bea6c8bd12f8017244458a78c369249a79ba",
+          "payload": "Textures/ecc19ba76254d2deb03132a15843bea6c8bd12f8017244458a78c369249a79ba.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38359870416,
+          "size": 2818048,
+          "original_sha256": "6696869bd96707426f0ce27c07e2d00bf0fe0ec47ff9e4421a7b258fa301a2c9",
+          "target_sha256": "e5c304903497387215e269a3bc5033fa820b0d393f043205a70724d39bfb132a",
+          "payload": "Textures/e5c304903497387215e269a3bc5033fa820b0d393f043205a70724d39bfb132a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38364851152,
+          "size": 2818048,
+          "original_sha256": "403b8dc69499b9facdc78e5d980c41c550b033061a9abb8cde3d7bc40b17a736",
+          "target_sha256": "1962c04432b0392bf3a7eb27b61c1b0cc0aac5075a66639256fbba7faffc171b",
+          "payload": "Textures/1962c04432b0392bf3a7eb27b61c1b0cc0aac5075a66639256fbba7faffc171b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38369831888,
+          "size": 2818048,
+          "original_sha256": "22fd2d162d029b24ce1afb14ea9b5d926784db9700415aa0aa7805d1418dda85",
+          "target_sha256": "2f6cdacc8f112204a22b46de30fe51d06e8713bee0853abf671f8aa12d5e1805",
+          "payload": "Textures/2f6cdacc8f112204a22b46de30fe51d06e8713bee0853abf671f8aa12d5e1805.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38374812624,
+          "size": 2818048,
+          "original_sha256": "ef7c2a260e078e8c7d5da6d37ba6ba3a2eb29d5923a903254dbdd6873d87e94a",
+          "target_sha256": "f18cf892c865946b04f552c2634132d9a2f56109605cbb4445b97b34e651f082",
+          "payload": "Textures/f18cf892c865946b04f552c2634132d9a2f56109605cbb4445b97b34e651f082.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38379793360,
+          "size": 2818048,
+          "original_sha256": "c0f962e38eb3e7b22e40ffe8f55959c4a3428ff32a3e46d8b286b37399ab8c23",
+          "target_sha256": "4a5176c3bd1c2ccd289fd650e89167d6e0f385f3cb12faa528c4802880e7566a",
+          "payload": "Textures/4a5176c3bd1c2ccd289fd650e89167d6e0f385f3cb12faa528c4802880e7566a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38384774096,
+          "size": 2818048,
+          "original_sha256": "2bd9c98d83b900f463fe0e41603b661a03f34392cbcd6a864648067b7f9cf8bf",
+          "target_sha256": "c3748566cb3786ed76e56084a84fba1365d254d32f8facf38583901c9fe7fefa",
+          "payload": "Textures/c3748566cb3786ed76e56084a84fba1365d254d32f8facf38583901c9fe7fefa.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38389754832,
+          "size": 2818048,
+          "original_sha256": "31188727678e83df4757e0aaee218dc54585e0966db8acdb041e33a82872f995",
+          "target_sha256": "2743804648dd7c3315e6fb3f808adba0ebed365c009deca6be508dd53bfa002b",
+          "payload": "Textures/2743804648dd7c3315e6fb3f808adba0ebed365c009deca6be508dd53bfa002b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38394735568,
+          "size": 2818048,
+          "original_sha256": "67d544de2655e46c8a4410ac036f44eb3fe10cfc1abfeceafa4b70e125425dc1",
+          "target_sha256": "e1687fbd995990783969ff61f3faaaad3431f11ec64910aaed75b42265b77872",
+          "payload": "Textures/e1687fbd995990783969ff61f3faaaad3431f11ec64910aaed75b42265b77872.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38399716304,
+          "size": 2818048,
+          "original_sha256": "f5c57e83657b116527a411e66e3d28a28dc6301b16c85927babbcbf7510541a5",
+          "target_sha256": "e5e766ca0329c634af8a8efc10a68905491f489a302a2a116f266913684ff0a4",
+          "payload": "Textures/e5e766ca0329c634af8a8efc10a68905491f489a302a2a116f266913684ff0a4.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38404697040,
+          "size": 2818048,
+          "original_sha256": "2a86c0c0f9a0d51a8e95042ef672c09a6a3f97104bc8a7850a708674c4ac27b5",
+          "target_sha256": "15edf17e055fba03a6f76d972385d832324e3ac45c27e509db68e645c7e5acb9",
+          "payload": "Textures/15edf17e055fba03a6f76d972385d832324e3ac45c27e509db68e645c7e5acb9.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38414658512,
+          "size": 2818048,
+          "original_sha256": "40f71f388186efd049c46ff0275700ea705e0187adb2a3a4726a9e978fea7b04",
+          "target_sha256": "0655378c76191773cd026c8da26d9eb066ce0aa3192fbc637bc1e110c085cd66",
+          "payload": "Textures/0655378c76191773cd026c8da26d9eb066ce0aa3192fbc637bc1e110c085cd66.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38419639248,
+          "size": 2818048,
+          "original_sha256": "a8ce0d828e6870d7ffc09a7512815819d1ac8bf278a8bf7a72cc0a46287a6eef",
+          "target_sha256": "620dbd05e940414af68cab2f9234c748ac47f1ddd678c1f513d80dd726894395",
+          "payload": "Textures/620dbd05e940414af68cab2f9234c748ac47f1ddd678c1f513d80dd726894395.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38441921488,
+          "size": 2818048,
+          "original_sha256": "aee06b3f2ce0adc1aecbdc2c66e9b360f0d6e35dbd2a37d745da6c24aff3f9e9",
+          "target_sha256": "add05948a1419d5105ef008c75a693c4994951f63de6fe1c6346aa0c820add6a",
+          "payload": "Textures/add05948a1419d5105ef008c75a693c4994951f63de6fe1c6346aa0c820add6a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 38444739536,
+          "size": 720896,
+          "original_sha256": "16027ae5901c9fac3f4cdc6a3d73f0a48b8436162683df1539b5f07c8b22d582",
+          "target_sha256": "d890069918512b9782d429c4ff996ac43d98db0a0c74ef557cc2bf09396f9bbd",
+          "payload": "Textures/d890069918512b9782d429c4ff996ac43d98db0a0c74ef557cc2bf09396f9bbd.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/uncharted4/texturedict2.psarc",
+          "physical_offset": 41344017936,
+          "size": 1441792,
+          "original_sha256": "59c22840e12ef84ad90a41900a8d54e8d056c959c57fe00a0df30726db9ab6f2",
+          "target_sha256": "79be70d8b6979bb2192e42221ae9a6686139d95d0f3e4847d98dd74443caa8bf",
+          "payload": "Textures/79be70d8b6979bb2192e42221ae9a6686139d95d0f3e4847d98dd74443caa8bf.bin"
+        }
+      ]
+    },
+    {
+      "path": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+      "kind": "ranges",
+      "source_sha256": "b1cb0c84eb1b28ccca98a7095580995b548ebcb0de52232caa51cdc6809f5dac",
+      "target_sha256": "0e16da15c4a2ee136168aae2f4b5127673cf32fed226755318d0e8053835e761",
+      "size": 24789143264,
+      "ranges": [
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 1742019904,
+          "size": 720896,
+          "original_sha256": "d94a66f03d886e957759f35c7a2aa8825488510a1cf8f62879c81e7d92af15b5",
+          "target_sha256": "208e1238722ca81b12a030baa1d9d7a25b6701b43cb221e741cb16818e429303",
+          "payload": "Textures/208e1238722ca81b12a030baa1d9d7a25b6701b43cb221e741cb16818e429303.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 1766989120,
+          "size": 196608,
+          "original_sha256": "4dbe306b8c33edbe87d6b5fb2db67cc552f93d0714d3bb90b96ba5fc493fabe1",
+          "target_sha256": "58806b0585a45239277cfbecef6fa01a3281241e8fa16d16e363b5b5eff979bf",
+          "payload": "Textures/58806b0585a45239277cfbecef6fa01a3281241e8fa16d16e363b5b5eff979bf.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 1767185728,
+          "size": 196608,
+          "original_sha256": "97218655ba6e22a37c7c4b6588df14bef0d41569b1b8a5cd923f53f51d6db4ae",
+          "target_sha256": "bf97fecf789f5f9096ad84d08e42d4ec2e7fb2108837be6d7a401a322824daea",
+          "payload": "Textures/bf97fecf789f5f9096ad84d08e42d4ec2e7fb2108837be6d7a401a322824daea.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 7288643344,
+          "size": 393216,
+          "original_sha256": "706aca38246dda7ba54bb64e150be8950c6be19db70c185f8d77314aa6a7e705",
+          "target_sha256": "5239bfe5ea9c60d3396509aa8d961cf6d014105241d07af55cd52823d7c56bf2",
+          "payload": "Textures/5239bfe5ea9c60d3396509aa8d961cf6d014105241d07af55cd52823d7c56bf2.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 7289429776,
+          "size": 720896,
+          "original_sha256": "beffa018ce5c55c08292e055e3effab46b79368a3467ee940b10448f6797b548",
+          "target_sha256": "ec310dd1472a5a8f65d8318812059e9af33f512c78b35c1f92dc29759fd90de2",
+          "payload": "Textures/ec310dd1472a5a8f65d8318812059e9af33f512c78b35c1f92dc29759fd90de2.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 7347625744,
+          "size": 65536,
+          "original_sha256": "ef56a88453aee8bca5f304e6b0a4e0aa1d4ad4b84c8fa86ae89c1af36c9ad797",
+          "target_sha256": "b19dab0ac8eda774c0557eb396efa6c5c738e11b9eb1fc2d338ac05d162a5013",
+          "payload": "Textures/b19dab0ac8eda774c0557eb396efa6c5c738e11b9eb1fc2d338ac05d162a5013.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 8333483792,
+          "size": 196608,
+          "original_sha256": "3c36e3fc66b52d8cc65de9da7b2e6fdec7e34d725c343e080dd1db6adbbd94f4",
+          "target_sha256": "472ad43380228be4a209a149a7e963e5a50528441c393fd06bd2b31c9137dedf",
+          "payload": "Textures/472ad43380228be4a209a149a7e963e5a50528441c393fd06bd2b31c9137dedf.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 9324700896,
+          "size": 65536,
+          "original_sha256": "0b9757e90862cb21c915601bf9aa5158f9de16613ce697bac029f314c215087a",
+          "target_sha256": "b936a426827ba3146806e44d8bcf59e622de1186163598da9aefd049a68d7337",
+          "payload": "Textures/b936a426827ba3146806e44d8bcf59e622de1186163598da9aefd049a68d7337.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 9324766432,
+          "size": 196608,
+          "original_sha256": "9015950db6ec46db179f6943b5410b86e8e7c23df840b12cae57fcff46a8f22e",
+          "target_sha256": "19fe3ce96d5494ea8dfa047c173d7ea1bbb4087b6f0287b6fccd3f903719f911",
+          "payload": "Textures/19fe3ce96d5494ea8dfa047c173d7ea1bbb4087b6f0287b6fccd3f903719f911.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11107435920,
+          "size": 1441792,
+          "original_sha256": "9ca2847a6d6dac26608df5f183a67b0fd563fd5f0b94721042101cb028aa17a9",
+          "target_sha256": "35607be8fa2a4c1d37ac376405c0a4c77fdee382d7eadb232fac9a2ab77ea3a3",
+          "payload": "Textures/35607be8fa2a4c1d37ac376405c0a4c77fdee382d7eadb232fac9a2ab77ea3a3.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11108877712,
+          "size": 1441792,
+          "original_sha256": "1cd334f663f82e862736368bc877b01f3f5518d2799b6b2dc25fe443306441e7",
+          "target_sha256": "544800be40c55ccef9f7912beae9adcb80f5236ff726c5a5c281653d45c2efbb",
+          "payload": "Textures/544800be40c55ccef9f7912beae9adcb80f5236ff726c5a5c281653d45c2efbb.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11111761296,
+          "size": 1441792,
+          "original_sha256": "bbc6a02a7a2f6fefd77abff6a36dd8bb8227dcbbeea752dd46e302213ff3d359",
+          "target_sha256": "a3bd06bc6c41bde3c694c0a3473744692e200f15bf36bc785ad190be62541995",
+          "payload": "Textures/a3bd06bc6c41bde3c694c0a3473744692e200f15bf36bc785ad190be62541995.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11113203088,
+          "size": 1441792,
+          "original_sha256": "06a98872b8e26d82de4dc9c8e8085d21fb9dcdae3b53cb47c2c841fbafeeb605",
+          "target_sha256": "5d61d5e94704b0e57637b8ae411331a9b04acbd829eb4b7b4b736ea989467829",
+          "payload": "Textures/5d61d5e94704b0e57637b8ae411331a9b04acbd829eb4b7b4b736ea989467829.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11114644880,
+          "size": 1441792,
+          "original_sha256": "a943d8c9d23af8639696c027c866973112eb404ce757f58f61b3f7132d0312c6",
+          "target_sha256": "607bc1ad20336b770bc982e2e9c8efc0ca9598ab54e804d3b517f04caa8c5d29",
+          "payload": "Textures/607bc1ad20336b770bc982e2e9c8efc0ca9598ab54e804d3b517f04caa8c5d29.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11118970256,
+          "size": 1441792,
+          "original_sha256": "fd7205bfeacc9e559b76ba5cd6a29d5fce8a95a9c4b7f703d497bb545fa4aae9",
+          "target_sha256": "f15afa47c397b1f7aa76f5a46dace3133bc5abc1d13def14638661885c92e19f",
+          "payload": "Textures/f15afa47c397b1f7aa76f5a46dace3133bc5abc1d13def14638661885c92e19f.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11120412048,
+          "size": 1441792,
+          "original_sha256": "5e5c64c8022e235b6eedda12d7470cf3b284205128b5bbc7f861564286618575",
+          "target_sha256": "c11032d75969ceee11d09c3aaa92110d393fdb92d3e928fde387a5181c46d75a",
+          "payload": "Textures/c11032d75969ceee11d09c3aaa92110d393fdb92d3e928fde387a5181c46d75a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11121853840,
+          "size": 1441792,
+          "original_sha256": "458f8ffb8c579dcdcfa379ebd8a8154a9c519b22a9772bbbae01b9131e9bc462",
+          "target_sha256": "83d913a2022e898d938f42f2dd5879b2589e9d97fa8d2a8ae5c938d713c28999",
+          "payload": "Textures/83d913a2022e898d938f42f2dd5879b2589e9d97fa8d2a8ae5c938d713c28999.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11123295632,
+          "size": 1441792,
+          "original_sha256": "36d4a45502a6853cacf32ffb35aac9a9dc73dc85a48bdf13ffc672dfcf18945e",
+          "target_sha256": "24bea07544b4fab495c7b95cd90f2a493158bdea32d577a833abe68e2be0e5d1",
+          "payload": "Textures/24bea07544b4fab495c7b95cd90f2a493158bdea32d577a833abe68e2be0e5d1.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11124737424,
+          "size": 1441792,
+          "original_sha256": "995a90cb32e3f49ce3803aa3545e06a96b00cf603d7a8539e1cc94bc220de57e",
+          "target_sha256": "537733c7047063cbc8644e2b4f5a91cfcf0552e75f2ca4d93accf118aae13483",
+          "payload": "Textures/537733c7047063cbc8644e2b4f5a91cfcf0552e75f2ca4d93accf118aae13483.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11129062800,
+          "size": 1441792,
+          "original_sha256": "f54fa5e2ef7d25a1241d76cb804719c7b82cb229009d8ebbaf01095dbbc0023e",
+          "target_sha256": "595370c2e93b1df3865076b1b3d3a9beb8415a8ef512db6bb09819719da1840f",
+          "payload": "Textures/595370c2e93b1df3865076b1b3d3a9beb8415a8ef512db6bb09819719da1840f.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11133388176,
+          "size": 1441792,
+          "original_sha256": "27f753cec452bfd2436b825f208ce2938fd805d52718033fd86346d3b3494886",
+          "target_sha256": "7f2ef78725397d20c706b5b4a2f948d0732db253d2705461bf1d32bd3d53bca0",
+          "payload": "Textures/7f2ef78725397d20c706b5b4a2f948d0732db253d2705461bf1d32bd3d53bca0.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11134829968,
+          "size": 1441792,
+          "original_sha256": "080b06436dd4009e91cbf7f39e2dd2d15e896458ee516eea78b2bb2cc101df5b",
+          "target_sha256": "f80a3fef515ef5d09c3f0d02146cb8cb59112ecc19353bca2ff738618ba41786",
+          "payload": "Textures/f80a3fef515ef5d09c3f0d02146cb8cb59112ecc19353bca2ff738618ba41786.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11136271760,
+          "size": 1441792,
+          "original_sha256": "a876f3e799e3588fedaf227888af7df706a6438d1e066b077687a292c2fb3051",
+          "target_sha256": "fbbaa45da8ca5413d8b7e8a56d1f7c4d2b899022d213d07e199fddd72381ecd1",
+          "payload": "Textures/fbbaa45da8ca5413d8b7e8a56d1f7c4d2b899022d213d07e199fddd72381ecd1.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11137713552,
+          "size": 1441792,
+          "original_sha256": "760d01ae2fcb02ac073fac45c259315e60d933295b899c9e67fb0e684db43089",
+          "target_sha256": "52cd2016f04866cb5e8511b077141a79ee19926d7e24e359ddecfd2e07fd492a",
+          "payload": "Textures/52cd2016f04866cb5e8511b077141a79ee19926d7e24e359ddecfd2e07fd492a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11139155344,
+          "size": 1441792,
+          "original_sha256": "f0ea5d10335af4ea4bcd507d931886a1729c3408d2d47ab655240843a8164f49",
+          "target_sha256": "d302d7f5a1b43fcc48d2b0d10ddd61182efe2c8f24789c05927bbe1dc506fda5",
+          "payload": "Textures/d302d7f5a1b43fcc48d2b0d10ddd61182efe2c8f24789c05927bbe1dc506fda5.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11142038928,
+          "size": 1441792,
+          "original_sha256": "dd0dfef527b6cf5878fd674dc504b569bd0a1b0223d73afd9ea31bfc77ba5bcd",
+          "target_sha256": "5c0bcf8c32b69d3a02f978d336eaa3996fc2f90791a85f535bc68f7fc2ad0401",
+          "payload": "Textures/5c0bcf8c32b69d3a02f978d336eaa3996fc2f90791a85f535bc68f7fc2ad0401.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11143480720,
+          "size": 1441792,
+          "original_sha256": "4e4325fbde588630aa5af1c37f5c472b5bf6fd4440f9bb81bd1475aa324f5755",
+          "target_sha256": "a325d47cd85df0a210e93b6c79caa7713c462116df6a58ea8111471dabc1be6b",
+          "payload": "Textures/a325d47cd85df0a210e93b6c79caa7713c462116df6a58ea8111471dabc1be6b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11144922512,
+          "size": 1441792,
+          "original_sha256": "7a6833fd37e588292aba67389fc2a60068e6e98b44af90b5bbbb790aa757d9d0",
+          "target_sha256": "3ecc455fe283e621f1a3a6d1a9562fa203463d3b4c830eb9b9fd2c771cc5fd3a",
+          "payload": "Textures/3ecc455fe283e621f1a3a6d1a9562fa203463d3b4c830eb9b9fd2c771cc5fd3a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11146364304,
+          "size": 1441792,
+          "original_sha256": "5907709bc5c0f895691dc9a2c7a472d5b3b08c50a9c2949a4fc6f3a62365f4dd",
+          "target_sha256": "4d679d1db9f1f2854a1243040344817a5374dc0851d080a69565d62aba71f4cb",
+          "payload": "Textures/4d679d1db9f1f2854a1243040344817a5374dc0851d080a69565d62aba71f4cb.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11147806096,
+          "size": 1441792,
+          "original_sha256": "f84c0ccae4b397a85902cd63eaaf9b7820bb182b3922ebaae4d71e882a60601f",
+          "target_sha256": "27c26d5e475bb982eb579c6de5ced2eeba3f465ac787d2ded108353d2552dc16",
+          "payload": "Textures/27c26d5e475bb982eb579c6de5ced2eeba3f465ac787d2ded108353d2552dc16.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11149247888,
+          "size": 1441792,
+          "original_sha256": "01c9f8e0261c5385735b4535798c719cc7c02a01c3655f84440da6b1ec026004",
+          "target_sha256": "955fbf42c6d5dd7a9e82d30109abb6557b739fd2a0862dcd7ca7bb5560fd578f",
+          "payload": "Textures/955fbf42c6d5dd7a9e82d30109abb6557b739fd2a0862dcd7ca7bb5560fd578f.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11156456848,
+          "size": 1441792,
+          "original_sha256": "726e4b8ee22b9832b3a378fb1b4fb7dd7a81ce0f0f95556ada34c9f1e412b7ed",
+          "target_sha256": "e0ed67c278e45a5a8438e15eb62b1ea4afd03791c5af42384463cb081f7d1416",
+          "payload": "Textures/e0ed67c278e45a5a8438e15eb62b1ea4afd03791c5af42384463cb081f7d1416.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11157898640,
+          "size": 1441792,
+          "original_sha256": "79bc8738af0cde965258aca1b8beb7499ebb679b0469cb1747f97f75fe8765aa",
+          "target_sha256": "8abadb80431a8cb0c3a5aa80980e50ad8563bd6c3ba0b47a14dc11b128364974",
+          "payload": "Textures/8abadb80431a8cb0c3a5aa80980e50ad8563bd6c3ba0b47a14dc11b128364974.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11160782224,
+          "size": 1441792,
+          "original_sha256": "4ed9dd4a70389631b34ef500369b936f177b572946a50968c0da05a57ddda688",
+          "target_sha256": "1ad99d93e5a896ffdcb60706b26f915fcb72e46c68f189bb06640339924009b7",
+          "payload": "Textures/1ad99d93e5a896ffdcb60706b26f915fcb72e46c68f189bb06640339924009b7.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11162224016,
+          "size": 1441792,
+          "original_sha256": "63223057bfba1f14de1c82c6ef2accd3173814bb5b00246c34db6c3f2c155f0a",
+          "target_sha256": "fd65ffccc47a886b2faacc4b59a18e44b4c5ea85afe50b33d649ff28913c0ede",
+          "payload": "Textures/fd65ffccc47a886b2faacc4b59a18e44b4c5ea85afe50b33d649ff28913c0ede.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11165107600,
+          "size": 1441792,
+          "original_sha256": "923059d768723728a1c26a2fb922170abc663f29f59d78a4f0362ea452eb4783",
+          "target_sha256": "63768d03e306781b378c9492b000c9c3b1a4490aa93dc87a0f3583d389925e4c",
+          "payload": "Textures/63768d03e306781b378c9492b000c9c3b1a4490aa93dc87a0f3583d389925e4c.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11166549392,
+          "size": 1441792,
+          "original_sha256": "8cf6ffd0d514107fa61189b608de532821f947588205fd10821436e3a9d48f2e",
+          "target_sha256": "a2c27fb66164b64b1b98152a4ab7232358adb465695d3b8e49ee88fdd655e1f0",
+          "payload": "Textures/a2c27fb66164b64b1b98152a4ab7232358adb465695d3b8e49ee88fdd655e1f0.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11167991184,
+          "size": 1441792,
+          "original_sha256": "ad43a50f42c9d828608cd78127593778b79058f0ac2dfd3416eabcbcdad19614",
+          "target_sha256": "7fd77f122a5fc4260bc9c0b2ebcb3d9b7a22e8445f7f5f0bdd52400e565d4670",
+          "payload": "Textures/7fd77f122a5fc4260bc9c0b2ebcb3d9b7a22e8445f7f5f0bdd52400e565d4670.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11169432976,
+          "size": 1441792,
+          "original_sha256": "fd22d9c56f27a18db1d802fd65b9b05c75dd16432c47d9666e7c56e9d469d152",
+          "target_sha256": "3bb2c7b85f0e4cae4e2ce547743434c994f63bb6d71274a37b378ede61adf7c8",
+          "payload": "Textures/3bb2c7b85f0e4cae4e2ce547743434c994f63bb6d71274a37b378ede61adf7c8.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11170874768,
+          "size": 1441792,
+          "original_sha256": "ec1281ca1e6d35cc35e2c5d767bcca8966b40551ebcdf0ee3d2e4de2ee4a4f24",
+          "target_sha256": "61b96e34b4805c09c76c064fc751e38d86d05bba996cbd5ad77b28659fa6918c",
+          "payload": "Textures/61b96e34b4805c09c76c064fc751e38d86d05bba996cbd5ad77b28659fa6918c.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11172316560,
+          "size": 1441792,
+          "original_sha256": "22b47b1d34a61b44e2f9db64197bf8ebc8b3c8a8f5c5cae1f1fa1d5909e76417",
+          "target_sha256": "da969ca7add77778559b71880b40e9234fab5f63c7dc9cfa9fee769a23458a48",
+          "payload": "Textures/da969ca7add77778559b71880b40e9234fab5f63c7dc9cfa9fee769a23458a48.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11173758352,
+          "size": 1441792,
+          "original_sha256": "9a34b566eccc254f9fae8c6f08f0d09e0a9d59c463c5a94c7bb69762b1622b7d",
+          "target_sha256": "1ef386a451cebf88bde608e38c2aa2c2aef3ea0e6208d7a02448f18108e72546",
+          "payload": "Textures/1ef386a451cebf88bde608e38c2aa2c2aef3ea0e6208d7a02448f18108e72546.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11175200144,
+          "size": 1441792,
+          "original_sha256": "3c994e08cbbee88e2aed072484d24fe21bb88c0372d72f692e92622947d4cfcd",
+          "target_sha256": "0f25e26f6f6cbfc67ebdde02ccd1dfbc650442431b11c045635e57d24d880eda",
+          "payload": "Textures/0f25e26f6f6cbfc67ebdde02ccd1dfbc650442431b11c045635e57d24d880eda.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11176641936,
+          "size": 1441792,
+          "original_sha256": "a7521abfefcca0301cbdc59efea84b4f5961f72c58d2d61f3b606115914e8784",
+          "target_sha256": "d896dd17896796beaa3d5147279d95a7a8ccbff90fa90911c040615ca7b1bdbf",
+          "payload": "Textures/d896dd17896796beaa3d5147279d95a7a8ccbff90fa90911c040615ca7b1bdbf.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11179525520,
+          "size": 1441792,
+          "original_sha256": "9796de504424d7fabae028d576b5eda60c3abe714b9ed26b9802bd43487a7f6e",
+          "target_sha256": "e025af51849a0f442e6455ef03d7cd76ef197e541445f183a211dc3deb91bf4f",
+          "payload": "Textures/e025af51849a0f442e6455ef03d7cd76ef197e541445f183a211dc3deb91bf4f.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11184571792,
+          "size": 1441792,
+          "original_sha256": "88b7cd67f4ac3d9dde76991e04a29bb400e282d21216fc97ee08f62738ef020b",
+          "target_sha256": "9510131ff087dbd4cf679b8ec7fc9e0ab46844118f7ed4192886288e91119787",
+          "payload": "Textures/9510131ff087dbd4cf679b8ec7fc9e0ab46844118f7ed4192886288e91119787.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11186013584,
+          "size": 1441792,
+          "original_sha256": "52893de59c340c91c867b0c917bd489b680988f8910b05b459bea3a05711a337",
+          "target_sha256": "f60fe33f30e20df03e328d29b279e84e42f27f4663cca4f124d1a75d8d86871a",
+          "payload": "Textures/f60fe33f30e20df03e328d29b279e84e42f27f4663cca4f124d1a75d8d86871a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11187455376,
+          "size": 1441792,
+          "original_sha256": "66b79025333b2721218578e5537258565e63550306c1594dfeb3462e7e25fa5d",
+          "target_sha256": "5c809047cf19660b96ac8c6dffdd1502287368c51a37b2743d66afae44269a26",
+          "payload": "Textures/5c809047cf19660b96ac8c6dffdd1502287368c51a37b2743d66afae44269a26.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11188897168,
+          "size": 1441792,
+          "original_sha256": "ab2fff194335ebcf6e652e5f3c051ce15a44d427708381f45eb766b4d0ba3839",
+          "target_sha256": "8023fcb82e25678905178ad4edcab4e21cbac962d96b2b4d54c0eecb3a4d4979",
+          "payload": "Textures/8023fcb82e25678905178ad4edcab4e21cbac962d96b2b4d54c0eecb3a4d4979.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11190338960,
+          "size": 1441792,
+          "original_sha256": "6c26889d85a05d452702e8083b343c2769fa61fadea100d028c7b62945375472",
+          "target_sha256": "7acdd621bbfd0b3e3e85cf4aa3abbe6ea930d4aae40d75f8317964b672b5886c",
+          "payload": "Textures/7acdd621bbfd0b3e3e85cf4aa3abbe6ea930d4aae40d75f8317964b672b5886c.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11191780752,
+          "size": 1441792,
+          "original_sha256": "57f012dd5d9f836ddc8e667bdc6ff0ba1bc2c320a080dc96b0005958ca117d76",
+          "target_sha256": "a2ef2ab40e2e54a4417804b0665aaed38238378da6ff8b7df5146f951d9501a2",
+          "payload": "Textures/a2ef2ab40e2e54a4417804b0665aaed38238378da6ff8b7df5146f951d9501a2.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11193222544,
+          "size": 1441792,
+          "original_sha256": "0feee93f407298e613b94bc87720e849a7391003db83ddb53665474c0268f132",
+          "target_sha256": "d5b0b0743e4604576cf78f8d9cba4ad814b8a161d7e7a3adb5a61033f3a8a4bc",
+          "payload": "Textures/d5b0b0743e4604576cf78f8d9cba4ad814b8a161d7e7a3adb5a61033f3a8a4bc.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11194664336,
+          "size": 1441792,
+          "original_sha256": "8250c2b30bc79667625855780face4a6060589779da08d4fcd911550b080c92e",
+          "target_sha256": "9091eddf07ac4857dce00ca5b1332e8cf654db81c6ada3fa57cdd3ff2789c1bc",
+          "payload": "Textures/9091eddf07ac4857dce00ca5b1332e8cf654db81c6ada3fa57cdd3ff2789c1bc.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11196106128,
+          "size": 1441792,
+          "original_sha256": "32bf214ea02a4b634c5c63a8e5895b16088e27522776d5905a05ee83733b45bd",
+          "target_sha256": "830c66e74005df96787fae3b22bee48645f1728f6016b7b5a943888c0eaa96ec",
+          "payload": "Textures/830c66e74005df96787fae3b22bee48645f1728f6016b7b5a943888c0eaa96ec.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11201873296,
+          "size": 1441792,
+          "original_sha256": "f3810bb8dcc8dda4d567b042b7f896624a7e614bf968d5e1e368472124847d85",
+          "target_sha256": "be3fd7ed6cd38be160f96bb9872aae75c58099c2eeb56fb3ba62862b25df48ab",
+          "payload": "Textures/be3fd7ed6cd38be160f96bb9872aae75c58099c2eeb56fb3ba62862b25df48ab.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11203315088,
+          "size": 1441792,
+          "original_sha256": "a7b726d7ec9f6908c29f4117ba726a34268f43c5219f8d5476fd8cf89ea2e6fa",
+          "target_sha256": "6382778695db444829c981288e1918b00e8f884ea022f6f4ba99deb9b1cd3ebb",
+          "payload": "Textures/6382778695db444829c981288e1918b00e8f884ea022f6f4ba99deb9b1cd3ebb.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11204756880,
+          "size": 1441792,
+          "original_sha256": "feb329a639ec6f1dd4ae6c782320dfe02a8d611888d22d59788f70701fbfc6b0",
+          "target_sha256": "5ecc1bf4ab42ffe8b512e7c899b985494c66461a3d92ef2d40ed13b21c618098",
+          "payload": "Textures/5ecc1bf4ab42ffe8b512e7c899b985494c66461a3d92ef2d40ed13b21c618098.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11206198672,
+          "size": 1441792,
+          "original_sha256": "4cd3ba2c7ab0f190204d43a79b1feb4d186ce2d45d86cc5bb40d9fe7edffbd58",
+          "target_sha256": "9be51484e76d73fdc64618bce3fc9f3e1821e4d7f6c82f24416d9154475c0fc4",
+          "payload": "Textures/9be51484e76d73fdc64618bce3fc9f3e1821e4d7f6c82f24416d9154475c0fc4.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11211965840,
+          "size": 1441792,
+          "original_sha256": "963f1859e3717b8f116f0c8c995ebbd15dc81160bef52a34f451da1f76a26815",
+          "target_sha256": "4ae855c0882d72b45b82dc67b0684c891a3262cb37331123609df3f720df4fe8",
+          "payload": "Textures/4ae855c0882d72b45b82dc67b0684c891a3262cb37331123609df3f720df4fe8.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11213407632,
+          "size": 1441792,
+          "original_sha256": "ec1e85e16c15d94fcccea612445fd9bbbf49b2b476ed85e2d9aa1b758de61c91",
+          "target_sha256": "d308ed819b6fe49d10ab5574c37b40c2d3df8e8c5f835d5130e551394827a1b7",
+          "payload": "Textures/d308ed819b6fe49d10ab5574c37b40c2d3df8e8c5f835d5130e551394827a1b7.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11214849424,
+          "size": 1441792,
+          "original_sha256": "53e301c32917a6d3f8d65b4d9bdcde60c422786f237c5169f3842e97b1e6c16f",
+          "target_sha256": "87e526464efa7ad9e5ea04be3e8b973c7b5d64abc9b8312dda3661cd59836aa5",
+          "payload": "Textures/87e526464efa7ad9e5ea04be3e8b973c7b5d64abc9b8312dda3661cd59836aa5.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11217733008,
+          "size": 1441792,
+          "original_sha256": "786d61fd6b1400e6a9242304c8757c018abe03b66ab81a8f9222d1cc13366813",
+          "target_sha256": "429cbe51a3325561e5cc8c75294a0fb6a08cfa08edf1efc61af3f7f25ead8ea1",
+          "payload": "Textures/429cbe51a3325561e5cc8c75294a0fb6a08cfa08edf1efc61af3f7f25ead8ea1.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11219174800,
+          "size": 1441792,
+          "original_sha256": "688890152b1dfade738fec6b6148e85885113171ec4ca133888cad899e16c4a3",
+          "target_sha256": "19a255893acf7d71f11b2ceb1be834321b57ebe8a241ee77e7da4fdd29efaad3",
+          "payload": "Textures/19a255893acf7d71f11b2ceb1be834321b57ebe8a241ee77e7da4fdd29efaad3.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11220616592,
+          "size": 1441792,
+          "original_sha256": "3ee51e9cd59f5bd559fd9479beb9d6ed7e559c09357898793e4a2e521ba459ca",
+          "target_sha256": "40ef2c62757d4a3e7ed407b739f564a0dddd13d793656575cf5b053ec86cbb0d",
+          "payload": "Textures/40ef2c62757d4a3e7ed407b739f564a0dddd13d793656575cf5b053ec86cbb0d.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11227825552,
+          "size": 1441792,
+          "original_sha256": "53b6f9cba644c0f047f387c69fc4a090716881b12eb10921b28241add3818194",
+          "target_sha256": "d128b51e902238d9cf9fc8356e0fe6293f1a4cae082c42d3f530b8ad70a90985",
+          "payload": "Textures/d128b51e902238d9cf9fc8356e0fe6293f1a4cae082c42d3f530b8ad70a90985.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11237983632,
+          "size": 1507328,
+          "original_sha256": "e6d097573f23a8bc2c1496d6c48b990fcbf8533163fec307e6dd503d477381b4",
+          "target_sha256": "d194f59553679625b41502aec85f3db40209d5b8bf320d0dae31af183d168963",
+          "payload": "Textures/d194f59553679625b41502aec85f3db40209d5b8bf320d0dae31af183d168963.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11240932752,
+          "size": 1507328,
+          "original_sha256": "e96fe3ee8ec1de3705189408d4850f271b7f256da25510203149e70da1c1f96d",
+          "target_sha256": "f44f641c9d8e96e61ccdda5f7869aaf0cf71551a89eb0651c8c4a76d69b1f761",
+          "payload": "Textures/f44f641c9d8e96e61ccdda5f7869aaf0cf71551a89eb0651c8c4a76d69b1f761.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11245258128,
+          "size": 1507328,
+          "original_sha256": "e6c6eb9c1297edda76539690244ba3c0be65a7731754c7d8061e99430485bf24",
+          "target_sha256": "1f42c45f005d098c418aa3f8894e92b81070bf02a8a074dfdec6bf73d957776b",
+          "payload": "Textures/1f42c45f005d098c418aa3f8894e92b81070bf02a8a074dfdec6bf73d957776b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11249583504,
+          "size": 1507328,
+          "original_sha256": "753432e047a15c50987b3663435df2c8066528e231220d40b2fd4e009917a498",
+          "target_sha256": "d27e05093a6c7cb936cbaab735fa4cb7643093cf92873c458e36710b19d3fa8e",
+          "payload": "Textures/d27e05093a6c7cb936cbaab735fa4cb7643093cf92873c458e36710b19d3fa8e.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11253974416,
+          "size": 1507328,
+          "original_sha256": "0cc577a17243576483ed85c898f1b24eb2d0c00261a5d1c5d0b4a26742ec6db2",
+          "target_sha256": "7369563fd49c3a4bc5ff449778efd2e8e64f8fe1bdcda0c13541a91a162a0932",
+          "payload": "Textures/7369563fd49c3a4bc5ff449778efd2e8e64f8fe1bdcda0c13541a91a162a0932.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11261314448,
+          "size": 1507328,
+          "original_sha256": "cdfa13bc3c860f7b5e5d22dde7710cf71b036c086fb553a6041978827c8d78bf",
+          "target_sha256": "fff79ff6d71ef4eb67a7959e67ad4e46dce17f28b27924ff239cac11f2bcfd00",
+          "payload": "Textures/fff79ff6d71ef4eb67a7959e67ad4e46dce17f28b27924ff239cac11f2bcfd00.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11287528848,
+          "size": 2818048,
+          "original_sha256": "b2fd03fbd9fa232dd26f5f273385d8ad9bc481cdef1efb811beaa46c1d736b42",
+          "target_sha256": "e61c0665e1a79eda7e842cbc5b8e694075469acd9c4f07584dd9f07beff49162",
+          "payload": "Textures/e61c0665e1a79eda7e842cbc5b8e694075469acd9c4f07584dd9f07beff49162.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11290346896,
+          "size": 720896,
+          "original_sha256": "9d485503a85bb88515b3a82195588d5ab8bff6b1d7b5a34c08ab525b2f40b95c",
+          "target_sha256": "4816540e8ae0cdb542ddc0320ca1b7a18c13afa866450ce74e92225c5d2266bb",
+          "payload": "Textures/4816540e8ae0cdb542ddc0320ca1b7a18c13afa866450ce74e92225c5d2266bb.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11294082448,
+          "size": 720896,
+          "original_sha256": "b89962f3334bbca3f7a967af5133eb02936f27615bf311f0d1273efb29a01920",
+          "target_sha256": "00a127b63ac68ce3d13b38fa7b2e6a2d16c2e105fdbbda297ca792d127df45da",
+          "payload": "Textures/00a127b63ac68ce3d13b38fa7b2e6a2d16c2e105fdbbda297ca792d127df45da.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11319182736,
+          "size": 65536,
+          "original_sha256": "d2c3c7d403bf1b81f073bcaa7819b04e19f8cf20f2440554d91b7884e962c28f",
+          "target_sha256": "38aff866015d9e5da4aa6253b2da071798f6d4cb094613a065cb1d2b7c9a8e14",
+          "payload": "Textures/38aff866015d9e5da4aa6253b2da071798f6d4cb094613a065cb1d2b7c9a8e14.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11326457232,
+          "size": 65536,
+          "original_sha256": "91e3dad45180751f4c53a7f57f63b8f87ed6d984abbd0e06487539114348684d",
+          "target_sha256": "89e29794bccb894b7b2616146b7a569d5f5791d8d2e29611ee6a73065fa26544",
+          "payload": "Textures/89e29794bccb894b7b2616146b7a569d5f5791d8d2e29611ee6a73065fa26544.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11330848144,
+          "size": 65536,
+          "original_sha256": "ffc9b4118f8095b4772936731d48a96e535da56a57b837a48a340dcba88fecda",
+          "target_sha256": "06d4d0ec97216a893c34b5567e64d79a60234b98c8b4cacac71d672b523ef086",
+          "payload": "Textures/06d4d0ec97216a893c34b5567e64d79a60234b98c8b4cacac71d672b523ef086.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11332355472,
+          "size": 65536,
+          "original_sha256": "a5e58f4c811f80de349a221d27947c00268d519eb7d15e9702a78fe172ca8f3c",
+          "target_sha256": "f3d966c580de956a2df5c80627210dab45938baefe791713ccaf6099ad9acaae",
+          "payload": "Textures/f3d966c580de956a2df5c80627210dab45938baefe791713ccaf6099ad9acaae.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11343693200,
+          "size": 720896,
+          "original_sha256": "9faa3a01ef5ab0165eeeaa6aa2bffc4de7dc35acf8c5365c590c01bbb79f1ea1",
+          "target_sha256": "813bc2c02ad4515d23477ca50c5dece3403ce20a0926cc9b57f7ce40c5399a67",
+          "payload": "Textures/813bc2c02ad4515d23477ca50c5dece3403ce20a0926cc9b57f7ce40c5399a67.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11345003920,
+          "size": 720896,
+          "original_sha256": "10c534ef4346e30af1ff82d6d72db872a33ab3493d4a15ad8cd05484bd4fcbf3",
+          "target_sha256": "ab4741ad2bdef40fcfe834a1496bfc19796f2bfbee3e125621d6373c71b1d49b",
+          "payload": "Textures/ab4741ad2bdef40fcfe834a1496bfc19796f2bfbee3e125621d6373c71b1d49b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11346314640,
+          "size": 2818048,
+          "original_sha256": "3899819099ab1cd9f20f5f4d7d3d5df4a7149a702a51d7757880d4d73c387961",
+          "target_sha256": "b2dea4f03e6912d87126078b6beee42ec8df0e15854140f4430ee793ec53f836",
+          "payload": "Textures/b2dea4f03e6912d87126078b6beee42ec8df0e15854140f4430ee793ec53f836.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11357586832,
+          "size": 2818048,
+          "original_sha256": "2570e5eece5201cd5dfec12b26cbb4bfe49d26080525ea1fb84cdb699f1010de",
+          "target_sha256": "e44fbe507177e677a43935d9609253fe49eea776f1bcb09c68a0aa681f1fa0e4",
+          "payload": "Textures/e44fbe507177e677a43935d9609253fe49eea776f1bcb09c68a0aa681f1fa0e4.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11361125776,
+          "size": 2818048,
+          "original_sha256": "fe5a7b01d11bbda0f4b3f2fca8bc6081613c3c3610c7c3f39ffab01baa4ace48",
+          "target_sha256": "a9741973e30f0527658a62adf7857bebda97beae4548e78d0db211b8dad3439e",
+          "payload": "Textures/a9741973e30f0527658a62adf7857bebda97beae4548e78d0db211b8dad3439e.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11368203664,
+          "size": 720896,
+          "original_sha256": "66849c9deff9c942d44027ec40c724d7e5594aab06ad3ac1c4bb5e194d1b7fed",
+          "target_sha256": "a6a2f6b57803ba989ccaa61a2df22caf8d4e93e280f8fdbf3483da61f25d12ab",
+          "payload": "Textures/a6a2f6b57803ba989ccaa61a2df22caf8d4e93e280f8fdbf3483da61f25d12ab.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11369514384,
+          "size": 720896,
+          "original_sha256": "864b5b634c647ef80c6aa82f6a6dbce7d9692f80ff64d34bcfcfbf5ad0ca5cc4",
+          "target_sha256": "f1c9e9610681435cf8a43bffa585f8960ba21a0b4a25a4c8ba5c0a5fcc6ec28b",
+          "payload": "Textures/f1c9e9610681435cf8a43bffa585f8960ba21a0b4a25a4c8ba5c0a5fcc6ec28b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11370825104,
+          "size": 720896,
+          "original_sha256": "c9da94ce0f7241b1ac3172cbe85e8e4a05897290c2875f5581f84926af780d60",
+          "target_sha256": "bb80de025e7c2d33e578e52bc5a2238fd1af015f1e3c03aaed9db79ec24ac423",
+          "payload": "Textures/bb80de025e7c2d33e578e52bc5a2238fd1af015f1e3c03aaed9db79ec24ac423.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11372135824,
+          "size": 720896,
+          "original_sha256": "0d73b17e23dbc36367b4e57d37161716bd4dff3ed130b69b84c2afcca7f7206f",
+          "target_sha256": "7d3db643b5639e91bb808bb11311b876cc24b9e76dee8d15b381caa33ee80a7e",
+          "payload": "Textures/7d3db643b5639e91bb808bb11311b876cc24b9e76dee8d15b381caa33ee80a7e.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11373446544,
+          "size": 720896,
+          "original_sha256": "a825d4648dfb5ad59f80aeecc7a8a6bc79fa160a01e7b187cb33fe18d6c8f15c",
+          "target_sha256": "3e4100be0edc03914b666d1eb6f81e1fd9ae3a9a122897b97d8c0831a9b2474c",
+          "payload": "Textures/3e4100be0edc03914b666d1eb6f81e1fd9ae3a9a122897b97d8c0831a9b2474c.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11376199056,
+          "size": 720896,
+          "original_sha256": "25fa14104fc79132e02c066733e389d5c2a25a188ee96021c90eea4904d5f17a",
+          "target_sha256": "5e82cdf0eacad04a2f1ad87908e1d0a9bb249ad4dd0e928c4ef0f24a08748b1a",
+          "payload": "Textures/5e82cdf0eacad04a2f1ad87908e1d0a9bb249ad4dd0e928c4ef0f24a08748b1a.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11377116560,
+          "size": 720896,
+          "original_sha256": "dd2e9d8d4f35c56f2896bc0575650bef17fbb5a855f5066f2bd47d23ab00a5e2",
+          "target_sha256": "cd9eaa9c9e2e28d1e1f1619270c772d16d24d13234a1b386c19efbf1d40722da",
+          "payload": "Textures/cd9eaa9c9e2e28d1e1f1619270c772d16d24d13234a1b386c19efbf1d40722da.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11378230672,
+          "size": 2818048,
+          "original_sha256": "05fffdcbe9c193c61ab905bc93f92db67b1a6696028f8138993e474a0264c811",
+          "target_sha256": "ecc19ba76254d2deb03132a15843bea6c8bd12f8017244458a78c369249a79ba",
+          "payload": "Textures/ecc19ba76254d2deb03132a15843bea6c8bd12f8017244458a78c369249a79ba.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11383211408,
+          "size": 720896,
+          "original_sha256": "288084227ea4c55aad6797809a83e445b7106c0f1b9cc1b43a6bfd4d89caeeea",
+          "target_sha256": "ce493fb62fc94848aef606d4041833fc63c2b508462483c130d9e9efba9377cc",
+          "payload": "Textures/ce493fb62fc94848aef606d4041833fc63c2b508462483c130d9e9efba9377cc.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11384522128,
+          "size": 720896,
+          "original_sha256": "fcafe09c1ea5dc626aa1b0e4e900bf5efaaadadd7204dbce26b44ed61068f99b",
+          "target_sha256": "10132930d59566675b9404ee90f5161b332929189b293ffcec45ca686adeb80b",
+          "payload": "Textures/10132930d59566675b9404ee90f5161b332929189b293ffcec45ca686adeb80b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11385832848,
+          "size": 720896,
+          "original_sha256": "3e54d28b71e94f75331cbf815f0560dea16abba092737745db392fef4f762490",
+          "target_sha256": "7e5842006485dd4401c303f269e49a28add3db258ff1f6998630e28395b6e74e",
+          "payload": "Textures/7e5842006485dd4401c303f269e49a28add3db258ff1f6998630e28395b6e74e.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11387143568,
+          "size": 720896,
+          "original_sha256": "d9c6e37933f49aaa1d7247e213786988fa887475116f3faa5405fd32f5a7b57a",
+          "target_sha256": "517799ad94252429139d1e0f7384bd0d67ebe9838d56ca13040aaf078da313a9",
+          "payload": "Textures/517799ad94252429139d1e0f7384bd0d67ebe9838d56ca13040aaf078da313a9.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11388454288,
+          "size": 720896,
+          "original_sha256": "6601905e13329fe20ed1856135f223f4ba00574d6de7adc3b233e2e5ae504131",
+          "target_sha256": "083ffa711147222de7087bde55b8b1274152a8550dacf7c340e1defcc827f68b",
+          "payload": "Textures/083ffa711147222de7087bde55b8b1274152a8550dacf7c340e1defcc827f68b.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11389765008,
+          "size": 720896,
+          "original_sha256": "f8f4265e4a40a92a30b4a63dbf92d150b124b04f0c05789f8dfdc479f6cedadd",
+          "target_sha256": "9fa1732d065afa2cba384e52af67cc8073846db73d64bae3d74c9ee704b47b89",
+          "payload": "Textures/9fa1732d065afa2cba384e52af67cc8073846db73d64bae3d74c9ee704b47b89.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11391075728,
+          "size": 720896,
+          "original_sha256": "d0bf696279d3a89ec24f4af779515d58853d24b655e5c346438e7a389f5821a2",
+          "target_sha256": "6fda3de58d5ee00f65a5c88a07e316559beae1d8c88e90c04abf547b3baffe49",
+          "payload": "Textures/6fda3de58d5ee00f65a5c88a07e316559beae1d8c88e90c04abf547b3baffe49.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11392386448,
+          "size": 720896,
+          "original_sha256": "7881e99a5f79da08bed4f2924578c929562448c84909fcdfeb9b561477316f10",
+          "target_sha256": "eaf2b0d6184a6ce25745467784ce8b989ad23e42bb401117a35a14f30c5d74ac",
+          "payload": "Textures/eaf2b0d6184a6ce25745467784ce8b989ad23e42bb401117a35a14f30c5d74ac.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11393697168,
+          "size": 720896,
+          "original_sha256": "574b5fdbcbb0d3bedeaaf05969af5b626d3fbeb2f085aa1afad8b26f2890aadc",
+          "target_sha256": "dd98c28cc454b747b7fd9878068c55f323dd7653dc396964661affa151f81603",
+          "payload": "Textures/dd98c28cc454b747b7fd9878068c55f323dd7653dc396964661affa151f81603.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11396318608,
+          "size": 720896,
+          "original_sha256": "48e9a712eaece28badbeb4b3e6da970466f9a82d176e96f2ade30c8125971bfd",
+          "target_sha256": "80e109896549385c6773a3cf4f55281716926969aac4eac4af403c249ba76bb5",
+          "payload": "Textures/80e109896549385c6773a3cf4f55281716926969aac4eac4af403c249ba76bb5.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11397629328,
+          "size": 720896,
+          "original_sha256": "abe6f92a6c8ddff912392ba857e8a296cba5d572e165034ccb0070318c79bb6a",
+          "target_sha256": "2b6d82bd5214e15a9e2c87f4e3a1d2aee945918308e579781598ba5f7f92676f",
+          "payload": "Textures/2b6d82bd5214e15a9e2c87f4e3a1d2aee945918308e579781598ba5f7f92676f.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 11400185232,
+          "size": 720896,
+          "original_sha256": "16027ae5901c9fac3f4cdc6a3d73f0a48b8436162683df1539b5f07c8b22d582",
+          "target_sha256": "d890069918512b9782d429c4ff996ac43d98db0a0c74ef557cc2bf09396f9bbd",
+          "payload": "Textures/d890069918512b9782d429c4ff996ac43d98db0a0c74ef557cc2bf09396f9bbd.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 15702221680,
+          "size": 196608,
+          "original_sha256": "c07c2cd58d3e515c911298970d50dbc18807dc5372b9062df1cbe627842a14fc",
+          "target_sha256": "d7d6061c46525d048696770be38a5a29abc9bd88cba3fac388e79f8669125247",
+          "payload": "Textures/d7d6061c46525d048696770be38a5a29abc9bd88cba3fac388e79f8669125247.bin"
+        },
+        {
+          "archive": "Uncharted4_data/build/pc/thelostlegacy/texturedict2.psarc",
+          "physical_offset": 16073417584,
+          "size": 196608,
+          "original_sha256": "e1bb7efb60558e26f603db1e918bdfd1ee70094e795747d0ac5015c7ee528d56",
+          "target_sha256": "fb48500e41bb1d23d2f39a9fa9da4980600f4a43ee76a1e8785e15e4f92f1fe0",
+          "payload": "Textures/fb48500e41bb1d23d2f39a9fa9da4980600f4a43ee76a1e8785e15e4f92f1fe0.bin"
+        }
+      ]
+    }
+  ],
+  "executables": [
+    {
+      "path": "u4.exe",
+      "sha256": "023eaf8fa969148266149a48bada2b3830c43c267f1850c4d397ded1b1885c80"
+    },
+    {
+      "path": "tll.exe",
+      "sha256": "d6aeafb1ad7ec428cc0b4849fd45b0dfb1349e00142b7911d63b407aa4c1a73a"
+    },
+    {
+      "path": "u4-l.exe",
+      "sha256": "7d29caba793bfdac81b9333cea7e4f891cb55b8cac2b1f6bcced8e295164461f"
+    },
+    {
+      "path": "tll-l.exe",
+      "sha256": "3025a786429d89666c1e45223fca08f1d44ecdb9c07369c6fb5752bf85b92d2f"
+    }
+  ],
+  "payload_sha256": "4e658fc402ffd0ec84cf36329b8709c53f10378736911f898d1761be0541bc7f",
+  "temporary_bytes": 795744011,
+  "distribution": "in_place_ranges_with_small_full_replacements",
+  "backup_directory": "_NodNuatThai_v1.0_LowSpace_Backup",
+  "backup_bytes_upper_bound": 394132314
+}

@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "install_seconds": 358.1,
+  "uninstall_seconds": 325.2,
+  "total_seconds": 1152.7,
+  "backup_bytes": 284294577,
+  "observed_drive_delta_bytes": 351232000,
+  "required_free_bytes": 795744011,
+  "all_six_target_hashes_match": true,
+  "all_original_hashes_restored": true,
+  "repeat_actual_installer_passed": true,
+  "live_game_modified": false,
+  "new_game_launch_test": false,
+  "visual_provenance": "Exact six target hashes match the mod previously tested and accepted by the user.",
+  "disposable_large_files_cleaned": true
+}

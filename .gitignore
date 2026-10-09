@@ -1,0 +1,12 @@
+proxy/out/
+*.obj
+*.lib
+*.exp
+*.dll
+*.exe
+*.psarc
+*.zip
+*.log
+__pycache__/
+tests/InPlace_Tests_*/
+tests/InPlace_Installer_Safety_Tests.json

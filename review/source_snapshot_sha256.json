@@ -1,0 +1,21 @@
+{
+  ".gitignore": "405b26ce0c9178f55cb1d0ab1c0e91eb542fcc6a19e60d7add3e41f6abc8d029",
+  "README.md": "836c2f15583c9bd9a7f2cfc90f3cd3f075564f49ff7f9a9b13f1e65b7a77111a",
+  "SECURITY_REVIEW.md": "ced69c54b3d25d9db1f31cb83fd00110fc9c90a954e1f695411328048a00f2e4",
+  "installer/installer.ps1": "51475747f78925ab1aad48f142ab6c28f7a00ab8e9111a06a2a73ad58f166f43",
+  "installer/installer_engine.ps1": "40eaa5116df6dee1326e21b52181268f2998ec26ae6cfdbb3b81a5d1437ee379",
+  "installer/Install_Thai_Mod.cmd": "dd58550e6146ec6794a0cd6f34e9c31618f624db5f1289dfe65bf401dd12b5c5",
+  "installer/manifest.json": "e7c92617e2a767d01aaa238f3dd1d0239f204d9fb5b6c5871ae742e7f8e58cdc",
+  "installer/Recover_Thai_Mod.cmd": "12d32f8ffc7cb0be08dad6dc266eccc21e6303c9e6a4c97beafe2d17f48169cd",
+  "installer/Uninstall_Thai_Mod.cmd": "2f8dcc5c5ec91f7b3f5e57e20718736c4e223454c39fa8749ac75828a18cc718",
+  "proxy/build.cmd": "c5cf72a8de953f6e2a1524e68b4c7f5dd3b91a2884128bc4a14b55859a21b454",
+  "proxy/profiles.h": "07e677de29a420af4db7f6a592f172e7a717e5831c39383126196e60dcbea393",
+  "proxy/thai_language.cpp": "b4aabca674749e54698aa5f0f6562d3110c713f45b0702b549415d4262e0cd44",
+  "proxy/version.def": "9ba67cad91a1b5181a16ed2e656c5cf5a801cfeefc9cb74ddc5c20582218cdf1",
+  "review/build_comparison.json": "d3f8e0283733e8f8ae3da333632387d2a422bd4dd6c76ef691c1c418adf494d7",
+  "review/full_size_test_results.json": "f8b1de5ffe236815393214eb111ac46f4863135b5a45b38e18e9ea17db033273",
+  "review/NEXUS_SUPPORT_DRAFT.txt": "9d787a70545f3656989f30da26dd71909b3417068050b0ef320d9a04cd7b8e4e",
+  "review/release_hashes.json": "33ec40215158ef73d7f6e7da62d3bcfc4d659b2cb019276a635e8b86c47b249d",
+  "review/safety_test_results.json": "479119a15b890bda614afde801f680a9bb64660750921719e6cdf7af898ae887",
+  "tests/test_installer.ps1": "98527a1df426ff1dc2e97611582e0406848d19babf768f14521a2df81250d027"
+}
