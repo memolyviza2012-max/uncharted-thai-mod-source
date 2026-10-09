@@ -4,7 +4,7 @@ My Nexus Mods username is: [YOUR NEXUS MODS USERNAME]
 I am requesting a security review of my UNCHARTED: Legacy of Thieves Collection
 Thai localization mod (content v1.0, LowSpace installer).
 
-Source repository (to be published):
+Source repository:
 https://github.com/memolyviza2012-max/uncharted-thai-mod-source
 
 The repository includes the C++ source of the version.dll proxy, native build
